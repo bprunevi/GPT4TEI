@@ -1,0 +1,2027 @@
+Foucault
+Judith Revel
+Table des entrées
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Actualité 855
+Archéologie 856
+Archive 857
+Aufklärung 858
+Auteur 859
+Biopolitique 861
+Contrôle 862
+Corps (investissement politique des) 863
+
+Dehors
+
+ 
+
+864
+
+ 
+ 
+
+ 
+	
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discipline 866
+Discours 867
+Dispositif. 868
+Épistémè 869
+Esthétique (de l'existence) 870
+Éthique 871
+Événement 872
+Expérience 874
+Folie 875
+Généalogie 877
+Gouvernementalité 878
+Guerre 879
+Histoire 881
+Norme 882
+Pouvoir. 884
+Problématisation 886
+Raison / Rationalité 887
+Résistance / Transgression 888
+Savoir / Savoirs 890
+
+ 
+852
+L'œuvre de Michel Foucault est complexe : on en a souvent souligné la grande
+variété des champs d'enquête, l’étonnante écriture baroque, les emprunts à d’autres
+disciplines, les tournants et les retournements, les changements de terminologie, la
+vocation tout à tour philosophique et journalistique — bref, rien qui puisse
+ressembler à ce que la tradition nous a habitué à concevoir comme un système
+philosophique. Le vocabulaire de Foucault s'inscrit dans cette même différence,
+
+puisqu'il présente tout à la fois la reprise de concepts philosophiques hérités
+d’autres pensées — et parfois largement détournés de leur sens initial —, la
+création de concepts inédits et l'élévation à la dignité philosophique de termes
+empruntés au langage commun ; par ailleurs, c’est un vocabulaire qui émerge très
+souvent à partir de pratiques et qui se propose à son tour comme générateur de
+pratiques : parce qu’un outillage conceptuel, c’est à la lettre, aimait à rappeler
+Foucault, une « boîte à outils ». Enfin, avant d’être fixé définitivement dans les
+livres, le vocabulaire se forge et se modèle dans le laboratoire de l’œuvre : l'énorme
+corpus de textes épars repris il y a quelques années sous le titre de Dits et Écrits
+fournit de ce point de vue un aperçu formidable du travail de production de
+concepts qu’implique l’exercice de la pensée ; c’est la raison pour laquelle, dans la
+plupart des cas, on trouvera dans ce volume des références aux textes des Dits et
+Écrits et non pas aux ouvrages de Foucault. Il faut également souligner que ce
+laboratoire de la pensée n’est pas seulement le lieu où se créent les concepts mais
+bien souvent aussi le lieu où, dans un mouvement de retournement qui est
+toujours présent chez Foucault, ils sont dans un second temps passés au crible de la
+critique interne : les termes sont donc produits, fixés puis réexaminés et
+abandonnés, modifiés ou élargis dans un mouvement continu de reprise et de
+déplacement.
+Le projet d’un « vocabulaire de Foucault » se devait de rendre compte de tout cela à
+la fois. Tâche ardue, certes, puisqu'il ne s'agissait en aucun cas de chercher à
+immobiliser ce mouvement, mais qu’en même temps il fallait chercher à rendre
+intelligible la cohérence fondamentale de la réflexion foucaldienne. Nous avons
+donc dû opérer des choix — souvent difficiles — afin de rendre visibles les passages
+essentiels de cette problématisation continue ; et dans la mesure du possible, nous
+avons tenté de tisser systématiquement, à travers un jeu de renvois, la trame à partir
+de laquelle le parcours philosophique de Foucault pouvait être rendu intelligible
+dans la complexité de ses ramifications et de ses retournements. À la fin de sa vie,
+Foucault aimait à parler de « problématisation » et n’entendait pas par là la re-
+présentation d’un objet préexistant ni la création par le discours d’un objet qui
+n'existe pas, mais « l’ensemble des pratiques discursives ou non-discursives qui fait
+Judith Revel
+entrer quelque chose dans le jeu du vrai et du faux et le constitue comme objet
+pour la pensée (que ce soit sous la forme de la réflexion morale, de la connaissance
+scientifique, de l’analyse politique, etc.) ». Il définissait donc ainsi un exercice
+critique de la pensée s’opposant à l’idée d’une recherche méthodique de la
+« solution », parce que la tâche de la philosophie n’est pas de résoudre — y compris
+en substituant une solution à une autre — mais de « problématiser », non pas de
+réformer mais d'instaurer une distance critique, de faire jouer la « déprise ». Le plus
+grand hommage que nous puissions aujourd’hui rendre à Foucault, c’est
+précisément de restituer à sa pensée sa dimension problématique. Ce vocabulaire se
+veut donc moins un simple ensemble de termes énumérés selon l’ordre
+alphabétique que la tentative de reconstituer la diversité de ces problématisations
+— successives ou superposées — qui font l'extraordinaire richesse des analyses
+foucaldiennes.
+Foucault
+° La notion d'actualité apparaît de deux manières différentes chez Foucault. La
+première consiste à souligner comment un événement — par exemple le partage
+entre la folie et la non-folie — non seulement engendre toute une série de discours,
+de pratiques, de comportements et d'institutions, mais se prolonge jusqu’à nous.
+« Tous ces événements, il me semble que nous les répérons. Nous les répétons dans
+notre actualité, et j’essaie de saisir quel est l'événement sous le signe duquel nous
+sommes nés, et quel est l'événement qui continue encore à nous traverser! ». Le
+passage de l'archéologie à la généalogie sera pour Foucault l’occasion d’accentuer
+encore cette dimension de prolongement de l’histoire dans le présent. La seconde
+est en revanche strictement liée à un commentaire que Foucault, en 1984, fait du
+texte de Kant « Qu'est-ce que les Lumières? ». L'analyse insiste alors sur le fait que
+poser philosophiquement la question de sa propre actualité, ce que fait Kant pour
+la première fois, marque en réalité le passage à la modernité.
+*° _ Foucault développe deux lignes de discours à partir de Kant. Pour Kant, poser
+la question de l'appartenance à sa propre actualité, c’est — commente Foucault
+— interroger celle-ci comme un événement dont on aurait à dire le sens et la
+singularité, et poser la question de l’appartenance à un « nous » correspondant à
+cette actualité, c’est-à-dire formuler le problème de la communauté dont nous
+faisons partie. Mais il faut également comprendre que si nous reprenons
+aujourd’hui l’idée kantienne d’une ontologie critique du présent, c’est non
+seulement pour comprendre ce qui fonde l’espace de notre discours mais pour en
+dessiner les limites. De la même manière que Kant « cherche une différence : quelle
+différence aujourd’hui introduit-il par rapport à hier? ? », nous devons à notre tour
+chercher à dégager de la contingence historique qui nous fait être ce que nous
+sommes des possibilités de rupture et de changement. Poser la question de
+l’actualité revient donc à définir le projet d’une « critique pratique dans la forme du
+franchissement possible ».
+
+se « Actualité» et «présent» sont au départ synonymes. Cependant, une
+différence va se creuser de plus en plus entre ce qui, d’une part, nous précède mais
+continue malgré tout à nous traverser et ce qui, de l’autre, survient au contraire
+comme une rupture de la grille épistémique à laquelle nous appartenons et de la
+périodisation qu’elle engendre. Cette irruption du « nouveau », ce que Foucault
+. « Sexualité et pouvoir », conférence à l'université de Tokyo (1978), repris in Dits et
+Écrits, [dorénavant cité DE], Paris, Gallimard, 1994, vol. 3, texte n° 233.
+
+. Voir à ce sujet « What is Enlightenment ? », in P. Rabinow (éd.), The Foucault Reader,
+New York, Pantheon Books, 1984, repris in DE, vol. 4, texte n° 339 ; et « Qu'est-ce
+que les Lumières », in Magazine Littéraire, n° 207, mai 1984, repris in DE, vol. 4, texte
+n° 351.
+
+. « What is Enlightenment ? », op. cit.
+
+. Ibid.
+Judith Revel
+comme Deleuze appellent également un « événement », devient alors ce qui
+caractérise l’actualité, Le présent, défini par sa continuité historique, n’est au
+contraire brisé par aucun événement : il ne peut que basculer et se rompre en
+donnant lieu à l'installation d’un nouveau présent. C’est ainsi que Foucault trouve
+enfin le moyen d'intégrer les ruptures épistémiques dont il avait pourtant eu tant
+de mal à rendre compte, en particulier au moment de la publication des Mofs et les
+Choses.
+Archéologie
+° Le terme d'« archéologie » apparaît trois fois dans des titres d'ouvrages de
+Foucault — Naissance de la clinique. Une archéologie du regard médical (1963), Les
+Mots et les Choses. Une archéologie des sciences humaines (1966) et L'Archéologie du
+Savoir (1969) — et caractérise jusqu’au début des années 70 la méthode de
+recherche du philosophe. Une archéologie n'est pas une « histoire » dans la mesure
+où, s’il s’agit bien de reconstituer un champ historique, Foucault fait en réalité
+jouer différentes dimensions (philosophique, économique, scientifique, politique
+etc.) afin d’obtenir les conditions d’émergence des discours de savoir en général à
+une époque donnée. Au lieu d’étudier l’histoire des idées dans leur évolution, il se
+concentre par conséquent sur des découpages historiques précis — en particulier
+l’âge classique et le début du XIX® siècle —, afin de décrire non seulement la
+manière dont les différents savoirs locaux se déterminent à partir de la constitution
+de nouveaux objets qui ont émergé à un certain moment, mais comment ils se
+répondent entre eux et dessinent de manière horizontale une configuration
+épistémique cohérente. :
+se Si le terme d'archéologie a sans doute nourri l'identification de Foucault au
+courant structuraliste — dans la mesure où il semblait mettre au jour une véritable
+structure épistémique dont les différents savoirs n’auraient été que des variantes —,
+son interprétation foucaldienne est en réalité bien autre. Comme le rappelle le
+sous-titre des Mots et les Choses, il ne s’agit pas de faire l'archéologie mais une
+archéologie des sciences humaines : plus qu’une description paradigmatique
+générale, il s’agit d’une coupe horizontale des mécanismes articulant différents
+événements discursifs — les savoirs locaux — au pouvoir, Cette articulation est
+bien entendu entièrement historique : elle possède une date de naissance — et tout
+l’enjeu consiste à envisager également la possibilité de sa disparition, « comme à la
+limite de la mer un visage de sablel ».
+se. Dans « archéologie », on retrouve à la fois l'idée de larche, c'est-à-dire du
+commencement, du principe, de l'émergence des objets de connaissance, et l’idée
+de l’archive — l'enregistrement de ces objets. Mais de la même manière que
+l'archive n’est pas la trace morte du passé, l’archéologie vise en réalité le présent :
+l. Les Mots et les Choses, Paris, Gallimard, 1966 ; réed. coll. Tel, p. 398.
+Foucault
+« Si je fais cela, c’est dans le but de savoir ce que nous sommes aujourd’huil ».
+Poser la question de l’historicité des objets du savoir, c’est, de fait, problématiser
+notre propre appartenance à la fois à un régime de discursivité donné et à une
+configuration du pouvoir. L'abandon du terme « archéologie » au profit du
+concept de « généalogie », au tout début des années 70, insistera sur la nécessité de
+redoubler la lecture « horizontale » des discursivités par une analyse verticale
+— orientée vers le présent — des déterminations historiques de notre propre
+régime de discours.
++ « J'appellerai archive non pas la totalité des textes qui ont été conservés par une
+civilisation, ni l’ensemble des traces qu’on a pu sauver de son désastre, mais le jeu
+des règles qui déterminent dans une culture l'apparition et la disparition des
+énoncés, leur rémanence et leur effacement, leur existence paradoxale d'événements
+et de choses. Analyser les faits de discours dans l’élément général de l'archive, c’est
+les considérer non point comme documents (d’une signification cachée, ou d’une
+règle de construction), mais comme monuments ; c’est — en dehors de toute
+métaphore géologique, sans aucune assignation d’origine, sans le moindre geste
+vers le commencement d’une #rchè — faire ce que l’on pourrait appeler, selon les
+droits ludiques de l’étymologie, quelque chose comme une archéologie? ».
++ De l'Histoire de la Folie à L'Archéologie du savoir, l'archive représente donc
+l’ensemble des discours effectivement prononcés à une époque donnée et qui
+continuent à exister à travers l’histoire. Faire l’archéologie de cette masse
+documentaire, c’est chercher à en comprendre les règles, les pratiques, les
+conditions et le fonctionnement. Pour Foucault, cela implique avant tout un
+travail de recollection de l'archive générale de l’époque choisie, c’est-à-dire de toutes
+les traces discursives susceptibles de permettre la reconstitution de l’ensemble des
+règles qui, à un moment donné, définissent à la fois les limites et les formes de la
+dicibilité, de la conservation, de la mémoire, de la réactivation et de
+l'appropriation. L’archive permet donc à Foucault de se distinguer en même temps
+des structuralistes — puisqu'il s’agit de travailler sur des discours considérés
+comme événements et non pas sur le système de la langue en general —, et des
+istoriens — puisque si ces événements ne font pas, à la lettre, partie de notre
+hist q évé ts ne font à la lett rtie de not
+présent, « ils subsistent et exercent, dans cette subsistance même à l’intérieur de
+l’histoire, un certain nombre de fonctions manifestes ou secrètes ». Enfin, si
+l'archive est la chair de l’archéologie, l’idée de constituer une archive générale, c’est-
+à-dire d’enfermer dans un lieu toutes les traces produites, est à son tour
+. « Dialogue sur le pouvoir », in S. Wade, Chez Foucault, Los Angeles, Circabook, 1978,
+repris in DE, vol. 3, texte n° 221.
+
+. « Sur l’archéologie des sciences. Réponse au Cercle d’épistémologie », Cahiers pour
+l'analyse, n° 9, été 1968, repris in DE, vol. 1, texte n° 59.
+Judith Revel
+archéologiquement datable : le musée et la bibliothèque sont en effet des
+phénomènes propres à la culture occidentale du XIX£ siècle.
+++ À partir du début des années 70, il semble que l’archive change de statut chez
+Foucault. : à la faveur d’un travail direct avec les historiens (pour Pierre Rivière, en
+1973 ; pour L Impossible prison, sous la direction de Michelle Perrot, en 1978 ; ou
+avec Arlette Farge, pour Le désordre des familles, en 1982), celui-ci revendique alors
+de plus en plus la dimension subjective de son travail (« Ce n’est point un livre
+d’histoire. Le choix qu’on y sos n’a pas eu de règle plus importante que mon
+goût, mon plaisir, une émotion! »), et se livre à une lecture souvent très littéraire
+de ce qu’il appelle parfois « d’étranges poèmes ». L’archive vaut désormais
+davantage comme trace d’existence que comme production discursive : sans doute
+parce qu’en réalité Foucault réintroduit au même moment la notion de subjectivité
+dans sa réflexion. Le paradoxe d’une utilisation non-historienne des sources
+historiques lui a en réalité souvent été ouvertement reproché,
+Aufklärung
+° Le thème de l’Aufklärung apparaît chez Foucault de manière de plus en plus
+insistante à partir de 1978 : il renvoie toujours au texte de Kant, Was ist Aufklärung
+(1784). L'enjeu en est complexe : si d'emblée Foucault assigne à la question
+kantienne le privilège d’avoir posé pour la première fois le problème philosophique
+(ou, comme le dit Foucault, de « journalisme philosophique ») de l’actualite, ce qui
+intéresse le philosophe semble tout d’abord le destin de cette question en France,
+en Allemagne, et dans les pays anglo-saxons. Ce n’est que dans un second temps
+que Foucault transformera la référence au texte kantien en une définition de cette
+« ontologie critique du présent » dont il fera son propre programme de recherche.
+°° Foucault développe en réalité trois niveaux d'analyse différents. Le premier
+cherche à reconstituer de manière archéologique le moment où l'Occident a rendu
+sa raison à la fois autonome et souveraine : en ce sens, la référence aux Lumières
+s’insère dans une description qui la précède (la réforme luthérienne, la révolution
+copernicienne, la mathématisation galiléenne de la nature, la pensée cartésienne, la
+physique newtonienne etc.) et dont elle représente le moment de plein
+accomplissement ; mais cette description archéologique est toujours
+généalogiquement tendue vers un présent dont nous participons encore : il faut
+donc comprendre « ce que peut être son bilan actuel, quel rapport il faut établir à
+ce geste fondateur? ». Le second tente de comprendre l’évolution de la postérité de
+l’Aufklärung dans différents pays et la manière dont elle a été investie dans des
+1. « La vie des hommes infâmes », Les Cahiers du chemin, n° 29, 1977, repris in DE, vol. 3,
+texte n° 198.
+
+2. « Introduction » à l'édition américaine du Normal et le Pathologique, de
+G. Canguilhem : On the Normal and the Pathological, Boston, D. Reiïdel, 1978, repris in
+DE, vol. 3, texte n° 219.
+Foucault
+champs divers : en particulier en Allemagne, dans une réflexion historique et
+politique sur la société (« des hégéliens à l’École de Francfort et à Lukäcs,
+Feuerbach, Marx, Nietzsche et Max Weber! ») ; en France, à travers l’histoire des
+sciences et la problématisation de la difference savoir / croyance,
+connaissance / religion, scientifique / préscientifique (Comte er le positivisme,
+Duhem, Poincaré, Koyré, Bachelard, Canguilhem). Enfin, le troisième pose la
+question de notre propre présent : « Kant ne cherche pas à comprendre le présent à
+partir d’une totalité ou d’un achèvement futur. Il cherche une différence : quelle
+différence aujourd’hui introduit-il par rapport à hier2 ? » C’est cette recherche de
+la différence qui caractérise non seulement « l'attitude de la modernité » mais
+l’&thos qui nous est propre. :
+ss Le commentaire de Kant a été au centre d’un commencement de débat avec
+Habermas, malheureusement interrompu par la mort de Foucault. Les lectures que
+donnent les deux philosophes de la question des Lumières sont diamétralement
+opposées, en particulier parce que Habermas cherche en réalité à définir à partir de
+la référence kantienne les conditions requises pour une communauté linguistique
+idéale, c'est-à-dire l’unité de la raison critique et du projet social. Chez Foucault, le
+problème de la communauté n’est pas la condition de possibilité d’un nouvel
+universalisme mais la conséquence directe de l’ontologie du présent : « pour le
+philosophe, poser la question de l'appartenance à ce présent, ce ne sera plus du tout
+la question de son appartenance à une doctrine ou à une tradition ; ce ne sera plus
+simplement la question de son appartenance à une communauté humaine en
+général, mais celle de son appartenance à un certain “nous”, à un nous qui se
+rapporte à un ensemble culturel caractéristique de sa propre actualité3 ».
+Auteur
+° En 1969, Foucault tient une conférence sur la notion d'auteur qui s'ouvre par
+ces mots : « “Qu’importe qui parle ?” En cette indifférence s’affirme le principe
+éthique, le plus fondamental peut-être, de l'écriture contemporainef ». Cette
+critique radicale de l’idée d’auteur — et plus généralement du couple
+auteur / œuvre — vaut à la fois comme diagnostic sur la littérature (en particulier
+dans le triple sillage de Blanchot, du nouveau roman et de la nouvelle critique), et
+comme méthode foucaldienne de lecture archéologique : en effet, si l’on retrouve
+souvent la théorisation de ce « lieu vide » chez certains écrivains que Foucault
+commente à l’époque, il est également vrai que l’analyse à laquelle se livre le
+philosophe dans Les Mots et les Choses cherche à son tour à appliquer à l’archive,
+c’est-à-dire à l’histoire, le principe d’une lecture de « masses d’énoncés » ou
+PPT
+
+Ibia.
+
+« What is Enlightenment ? », op. cit.
+
+« Qu’est-ce que les Lumières », op. cit.
+
+« Qu'est-ce qu’un auteur ? », Bulletin de la société française de philosophie, juin-septembre
+1969, repris in DE, vol. 1, texte n° 69.
+Judith Revel
+« nappes discursives » qui ne seraient pas « scandées par les unités habituelles du
+livre, de l’œuvre et de l’auteur! ». De ce point de vue, le début de L'ordre du
+discours ne fait que poursuivre dans la description d’un flux de parole qui serait à la
+fois historiquement déterminé et non-individualisé, et qui dicterait les conditions
+de parole de Foucault lui-même : « J'aurais aimé m'’apercevoir qu’au moment de
+parler, une voix sans nom me précédait depuis longtemps? ».
+°° Du point de vue de la méthode, Foucault est en apparence assez proche de ce
+que fait Barthes à la même époque, puisque l’analyse structurale du récit ne se
+réfère pas à la psychologie, à la biographie personnelle ou aux caractéristiques
+subjectives de l’auteur mais aux structures internes du texte et au jeu de leur
+articulation. C’est probablement à partir du constat de ce « voisinage »
+méthodologique (qui le rapproche également d’Althusser, de Lévi-Strauss ou de
+Dumézil) qu’on a généralement associé Foucault au courant structuraliste. La
+recherche de structures logiques est cependant teintée chez lui d’une veine
+blanchotienne particulière (« l’œuvre comporte toujours pour ainsi dire la mort de
+l’auteur lui-même. On n’écrit que pour en même temps disparaître? ») qui, au-delà
+du simple repérage de la caducité historique d’une catégorie que l’on avait crue
+jusque-là incontournable, pousse Foucault vers une analyse des rapports
+qu’entretiennent le langage et la mort. À la description de l'effacement d’une
+notion dont il décrit historiquement la constitution et les mécanismes puis la
+dissolution (ce en quoi la notion d’auteur reçoit à peu près le même traitement que
+celle de « sujet »), Foucault ajoute donc à la fois l’identification de son propre
+statut de parole et la problématisation d’une expérience de l'écriture conçue
+comme passage à la limite.
++ Cette influence blanchotienne l’amènera tout au long des années 60, et en
+marge des grands livres, à s’attarder sur un certain nombre de « cas » littéraires
+possédant tous une parenté avec la folie (et on est alors bien loin des propos de
+l’Histoire de la Folie) ou avec la mort. Foucault commentera donc Hölderlin et
+Nerval, Roussel et Artaud, Flaubert et Klossowski, et même certains écrivains
+proches de Tel Quel, en soulignant leur valeur exemplaire : « Le langage a alors pris
+sa stature souveraine ; il surgit comme venu d’ailleurs, de là où personne ne parle ;
+mais il n’est œuvre que si, remontant son propre discours, il parle dans la direction
+ds cts ahenh eds:
+. « Qu est-ce qu un auteur ? », op. cit.
+
+2. L'Ordre du Discours, Paris, Gallimard, 1971, p. 7.
+
+. «Interview avec Michel Foucault », Bonniers Litteräre Magasin, Stockholm, n° 3, mars
+1968, repris in DE, vol. 1, texte n° 54.
+. « Le “non” du père », Critique n° 178, mars 1962, repris in DE, vol. 1, texte n° 8.
+Foucault
+Biopolitique
+
+° Le terme « biopolitique » désigne la manière dont le pouvoir tend à se
+transformer, entre la fin du XVIII siècle et le début du XIX£ siècle, afin de
+gouverner non seulement les individus à travers un certain nombre de procédés
+disciplinaires, mais l’ensemble des vivants constitués en population : la biopolitique
+— à travers des bio-pouvoirs locaux — s’occupera donc de la gestion de la santé,
+de l'hygiène, de l’alimentation, de la sexualité, de la natalité etc., dans la mesure où
+ils sont devenus des enjeux politiques.
++ La notion de biopolitique implique une analyse historique du cadre de
+rationalité politique dans lequel elle apparaît, c’est-à-dire la naissance du
+libéralisme. Par libéralisme, il faut entendre un exercice du gouvernement qui non
+seulement tend à maximiser ses effets tout en réduisant ses coûts, sur le modèle de
+la production industrielle, mais affirme qu’on risque toujours de trop gouverner.
+Alors que la « raison d’État » avait cherché à développer son pouvoir à travers la
+croissance de l’État, « la réflexion libérale ne part pas de l'existence de l’État,
+trouvant dans le gouvernement le moyen d’atteindre cette fin qu’il serait pour lui-
+même ; mais de la société qui se trouve être dans un rapport complexe d’extériorité
+et d’intériorité vis-à-vis de l’Étatl ». Ce nouveau type de gouvernementalité, qui
+n’est réductible ni à une analyse juridique, ni à une lecture économique (bien que
+l’une et l’autre y soient liées), se présente par conséquent comme une technologie
+du pouvoir qui se donne un nouvel objet : la « population ». La population est un
+ensemble d'êtres vivants et coexistants qui présentent des traits biologiques et
+pathologiques particuliers, et dont la vie-même est susceptible d’être contrôlée afin
+d'assurer une meilleure gestion de la force de travail : « La découverte de la
+population est, en même temps que la découverte de l'individu et du corps
+dressable, l’autre grand noyau technologique autour duquel les procédés politiques
+de l'Occident se sont transformés. On a inventé à ce moment-là ce que j’appellerai,
+par opposition à l’anatomo-politique que j’ai mentionnée à l'instant, la bio-
+politique? ». Alors que la discipline se donnait comme anatomo-politique des
+corps et s’appliquait essentiellement aux individus, la biopolitique représente donc
+cette grande « médecine sociale » qui s’applique à la population afin d’en gouverner
+la vie : la vie fait désormais partie du champ du pouvoir.
+
++ _ La notion de biopolitique soulève deux problèmes. Le premier est lié à une
+contradiction que l’on trouve chez Foucault lui-même : dans les premiers textes où
+apparaît le terme, il semble être lié à ce que les Allemands ont appelé au
+XVIII siècle la Polizeiwissenschaft, c’est-à-dire le maintien de l’ordre et de la
+discipline à travers la croissance de l’État. Mais, par la suite, la biopolitique semble
+. « Naissance de la biopolitique », Annuaire du Collège de France, 7% année, Chaire
+d'histoire des systèmes de pensée, année 1978-1979, 1979, repris in DE, vol. 3, texte
+n° 818.
+
+. «Les mailles du pouvoir », conférence à l’université de Bahia, 1976, Barbarie, n° 4 et
+n° 5, 1981, repris in DE, vol. 4, texte n° 297.
+Judith Revel
+au contraire signaler le moment de dépassement de la traditionnelle dichotomie
+État / société, au profit d’une économie politique de la vie en général. C’est de
+cette seconde formulation que naît l’autre problème : s’agit-il de penser la
+biopolitique comme un ensemble de bio-pouvoirs ou bien, dans la mesure où dire
+que le pouvoir a investi la vie signifie également que la vie est un pouvoir, peut-on
+localiser dans la vie elle-même — c’est-à-dire bien entendu dans le travail et dans le
+langage, mais aussi dans les corps, dans les affects, dans les désirs et dans la
+sexualité — le lieu d’émergence d’un contre-pouvoir, le lieu d’une production de
+subjectivité qui se donnerait comme moment de désassujettissement ? Dans ce cas,
+le thème de la biopolitique serait fondamental pour la reformulation éthique du
+rapport au politique qui caractérise les dernières analyses de Foucault ; plus
+encore : la biopolitique représenterait exactement le moment du passage du
+politique à l’éthique. Comme l’admet Foucault en 1982, « l’analyse, l'élaboration,
+la remise en question des relations de pouvoir, et de l’“agonisme” entre relations de
+pouvoir et intransitivité de la liberté, sont une tâche politique incessante [...] c’est
+même cela, la tâche politique inhérente à toute existence socialel ».
+Contrôle
+® Le terme de « contrôle » apparaît dans le vocabulaire de Foucault de manière
+de plus en plus fréquente à partir de 1971-72. Il désigne dans un premier temps
+une série de mécanismes de surveillance qui apparaissent entre le XVIII® et le
+XIXE siècle et qui ont pour fonction non pas tant de punir la déviance que de la
+corriger et surtout de la prévenir : « Toute la pénalité du XIX£ siècle devient un
+contrôle, non pas tant sur ce que font les individus — est-ce conforme ou non à la
+loi ? — mais sur ce qu’ils peuvent faire, de ce qu’ils sont capables de faire, de ce
+qu’ils sont sujets à faire, de ce qu’ils sont dans l’imminence de faire? ». Cette
+extension du contrôle social correspond à une « nouvelle distribution spatiale et
+sociale de la richesse industrielle et agricole » : c’est la formation de la société
+capitaliste, c’est-à-dire la nécessité de contrôler les flux et la répartition spatiale de
+la main d'œuvre en tenant compte des nécessités de la production et du marché du
+travail, qui rend nécessaire une véritable orthopédie sociale dont le développement
+de la police et la surveillance des populations sont les instruments essentiels.
+ee Le contröle social passe non seulement par la justice mais une série d'autres
+pouvoirs latéraux (les institutions psychologiques, psychiatriques, criminologiques,
+médicales, pédagogiques ; la gestion des corps et l'institution d’une politique de la
+santé ; les mécanismes d’assistance, les associations philanthropiques et les
+1. « Le sujet et le pouvoir », in H. Dreyfus et P. Rabinow, Michel Foucault : Beyond
+Structuralism and Hermeneutics, Chicago, The Dar of Chicago Press, 1982, repris
+in DE, vol. 4, texte n° 306.
+
+2. « La vérité et les formes juridiques », conférences à l’université de Rio de Janeiro, mai
+1973, repris in DE, vol. 2, texte n° 139.
+
+3, « La vérité et les formes juridiques », op. cit.
+Foucault
+patronages etc.) qui s’articulent en deux temps : il s’agit, d’une part, de constituer
+des populations dans lesquelles insérer les individus —le contrôle est
+essentiellement une économie du pouvoir qui gère la société en fonction de
+modèles normatifs globaux intégrés dans un appareil d’État centralisé — ; mais de
+l’autre, il s’agit également de rendre le pouvoir capillaire, c’est-à-dire de mettre en
+place un système d’individualisation qui s'attache à modeler chaque individu et à
+en gérer l'existence. Ce double aspect du contrôle social (gouvernement des
+populations / gouvernement par l’individualisation) a été particulièrement étudié
+par Foucault dans le cas du fonctionnement des institutions de santé et du discours
+médical au XIX£ siècle, mais aussi dans l’analyse des rapports entre la sexualité et la
+répression dans le premier volume de l’ Histoire de la Sexualité.
+ee Toute l’ambigüité du terme « contrôle » tient au fait qu'à partir du début des
+années 80, Foucault laisse sous-entendre qu’il définit par là un mécanisme
+d'application du pouvoir différent de la discipline. C’est en partie sur ce point que
+s'effectue le revirement programmatique de l'Histoire de la Sexualité, entre la
+publication du premier volume (1976) et celle des deux derniers (1984) : « Le
+contrôle du comportement sexuel a une forme tout autre que la forme
+disciplinairel ». L’intériorisation de la norme, patente dans la gestion de la
+sexualité, correspond à la fois à une pénétration extrêmement fine du pouvoir dans
+les mailles de la vie, et à une subjectivation de celle-ci. La notion de contrôle, une
+fois rendue indépendante des analyses disciplinaires, conduit alors Foucault à la
+fois vers une « ontologie critique de l'actualité » et vers une analyse des modes de
+subjectivation qui seront au centre de son travail dans les années 80.
+Corps (investissement politique des)
+° «Il y a eu, au cours de l’âge classique, toute une découverte du corps comme
+objet et cible du pouvoir? » : les analyses de Foucault dans les années 70 cherchent
+avant tout à comprendre comment on est passé d’une conception du pouvoir où il
+s’agissait de traiter le corps comme une surface d'inscription des supplices et des
+peines à une autre, qui cherchait au contraire à former, à corriger et à réformer le
+corps. Jusqu’à la fin du XVIII siècle, le contrôle social du corps passe par le
+châtiment et par l’enfermement : « avec les princes, le supplice légitimait le pouvoir
+absolu, son “atrocité” se déployait sur les corps parce que le corps était l’unique
+richesse accessible » ; en revanche, dans les instances de contrôle qui apparaissent
+dès le début du XIX® siècle, il s’agit davantage de gérer la rationalisation et la
+rentabilisation du travail industriel par la surveillance du corps de la force de
+travail : « Pour qu’un certain libéralisme bourgeois ait été possible au niveau des
+institutions, il a fallu, au niveau de ce que j'appelle les micro-pouvoirs, un
+1. « Interview de Michel Foucault », Krisis, mars 1984, repris in DE, vol. 4, texte n° 349.
+2. Surveiller et Punir, Paris, Gallimard, 1975, p. 138.
+
+3. « La prison vue par un philosophe français », L'Europeo, n° 1515, avril 1975, repris in
+DE, vol. 2, texte n° 153.
+Judith Revel
+investissement beaucoup plus serré des individus, il a fallu organiser le quadrillage
+des corps et des comportements! ».
++ «Ce qu'a mis en jeu le grand renouvellement de l'époque, c'est un problème
+de corps et de matérialité, c’est une question de physique : nouvelle forme prise par
+l'appareil de production, nouveau type de contact entre cet appareil et celui qui le
+fait fonctionner ; nouvelles exigences imposées aux RS comme forces
+productives [...] c’est un chapitre de l’histoire des corps? ». Sur cette base,
+Foucault va développer son analyse dans deux directions : la première correspond à
+une véritable « physique du pouvoir» ou, comme la désignera ailleurs le
+philosophe, une anatomopolitique, une orthopédie sociale, c’est-à-dire une étude des
+stratégies et des pratiques par lesquelles le pouvoir modèle chaque individu depuis
+l’école jusqu’à l’usine ; la seconde correspond au contraire à une béopolitique c’est-
+à-dire à la gestion politique de la vie : il ne s’agit plus de redresser et de surveiller
+les corps des individus, mais de gérer des « populations » en instituant de véritables
+programmes d'administration de la santé, de l’hygiène etc.
++ Quand Foucault commence à travailler sur la sexualité, il prend cependant
+conscience de deux choses : d’une part, c’est à partir d’un réseau de somato-pouvoir
+que naît la sexualité « comme phénomène historique et culturel dans lequel nous
+nous reconnaissons? », et non pas à partir d’une pénétration morale des
+consciences : il faut donc en faire l’histoire ; de l’autre, l’actualité de la question des
+rapports entre le pouvoir et les corps est essentielle : va-t-on pouvoir récupérer son
+propre corps ? La question est d’autant plus pertinente que Foucault participe à la
+même époque aux discussions du mouvement homosexuel et que c’est « cette lutte
+pour les corps qui fait que la sexualité est un problème politiquef ». Le corps
+représente dès lors un enjeu de la résistance au pouvoir, l’autre versant de cette
+« biopolitique » qui devient le centre des analyses du philosophe à la fin des années
+Dehors
+° En 1966, dans un texte consacré à Maurice Blanchotÿ, Foucault définit ce
+qu'est l’« expérience du dehors » comme la dissociation du « je pense » et du « je
+parle » : le langage doit affronter la disparition du sujet qui parle et enregistrer son
+. «Sur la sellette », Les Nouvelles Littéraires, n° 2477, mars 1975, repris in DE, vol. 2,
+texte n° 152.
+
+. « La société punitive », Annuaire du Collège de France, 1972-1973, repris in DE, vol. 2,
+texte n° 131.
+
+. « Les rapports de pouvoir passent à l’intérieur des corps », La Quinzaine Littéraire,
+n° 247, janvier 1977, repris in DE, vol. 3, texte n° 197.
+
+. « Sexualité et politique », Combat, n° 9274, avril 1974, repris in DE, vol. 2, texte
+n°:139;
+
+. «La pensée du dehors », Critique, n° 229, 1966, repris in DE, vol. 1, texte n° 38.
+Foucault
+lieu vide comme source de son propre épanchement indéfini. Le langage échappe
+alors « au mode d’être du discours, c’est-à-dire à la dynastie de la représentation, et
+la parole littéraire se développe à partir d'elle-même, formant un réseau dont
+chaque point, distinct des autres, à distance même des plus voisins, est situé par
+rapport à tous dans un espace qui à la fois les loge et les séparel ».
++ Ce passage au dehors comme disparition du sujet qui parle et,
+contemporainement, comme apparition de l’être même du langage, caractérise
+pour Foucault une pensée dont « il faudra bien un jour essayer de définir les formes
+et les catégories fondamentales », et dont il repère une sorte de lignage dans les
+marges de la culture occidentale. De Sade à Hôlderlin, de Nietzsche à Mallarmé,
+d’Artaud à Bataille et à Klossowski, il s’agit toujours de dire ce passage au dehors,
+c’est-à-dire à la fois l'éclatement de l’expérience de l’intériorité et le décentrement
+du langage vers sa propre limite : en ce sens, selon Foucault, Blanchot semble avoir
+réussi à déloger du langage la réflexivité de la conscience et transformé la fiction en
+une dissolution de la narration faisant valoir « l’interstice des images ». Le paradoxe
+de cette parole sans racine et sans socle, qui se révèle comme suintement et comme
+murmure, comme écart et comme dispersion, c’est qu’elle représente une avancée
+vers ce qui n’a jamais reçu de langage — le langage lui-même, qui n’est ni
+réflexion, ni fiction, mais ruissellement infini —, c’est-à-dire l’oscillation indéfinie
+entre l’origine et la mort.
+es Le thème du dehors est intéressant à la fois parce qu'il rend raison des auteurs
+dont Foucault s'occupe dans la même période — le « lignage du dehors », dont
+Blanchot serait l’incarnation la plus éclatante — et parce qu’il forme un
+contrepoint radical à ce que le philosophe s'attache à décrire simultanément dans
+ses livres. En effet, quand Foucault souligne le risque de reconduire l'expérience du
+dehors à la dimension de l’intériorité et la difficulté de la doter d’un langage qui lui
+soit fidèle, il dit la fragilité de ce « dehors » : or il n’y a point de dehors possible
+dans une description archéologique des dispositifs discursifs telle qu’elle est
+présentée dans Les Mots et les Choses. Ce n’est que bien plus tard que Foucault
+_ cessera de penser le « dehors » comme un passage à la limite ou comme une pure
+extériorité, et qu'il lui donnera un lieu au sein même de l’ordre du discours :
+l'opposition ne sera alors plus entre le dedans et le dehors, entre le règne du sujet et
+le murmure anonyme, mais entre le langage objectivé et la parole de résistance,
+entre le sujet et la subjectivité, c’est-à-dire ce que Deleuze appellera « le pli ». Le pli
+— et le terme est déjà étrangement utilisé par Foucault en 1966 —, c’est la fin de
+l'opposition dehors / dedans, parce que c’est le dehors du dedans. Et Foucault de
+conclure : « [...] on est toujours à l’intérieur. La marge est un mythe. La parole du
+dehors est un rêve qu’on ne cesse de reconduire? ».
+1. Jbia.
+2. « L'extension sociale de la norme », Politique Hebdo, n° 212, mars 1976, repris in DE,
+vol. 3, texte n° 173.
+Judith Revel
+Discipline
+
+° _ Modalité d'application du pouvoir qui apparaît entre la fin du XVIII et le
+début du XIXE siècle. Le « régime disciplinaire » se caractérise par un certain
+nombre de techniques de coercition qui s’exercent selon un quadrillage
+systématique du temps, de l’espace et du mouvement des individus, et investissent
+particulièrement les attitudes, les gestes, les corps: « Techniques de
+l’individualisation du pouvoir, Comment surveiller quelqu'un, comment contrôler
+sa conduite, son comportement, ses aptitudes, comment intensifier sa performance,
+multiplier ses capacités, comment le mettre à la place où il sera plus utilel ». Le
+discours de la discipline est étranger à la loi, ou à celui de la règle juridique dérivée
+de la souveraineté : elle produit un discours sur la règle naturelle, c’est-à-dire sur la
+norme.
++ Les procédés disciplinaires s'exercent davantage sur les processus de l’activité
+plutôt que sur ses résultats et « l’assujetissement constant de ses forces [...] impose
+un rapport de docilité-utilité ». Les « disciplines » ne naissent bien entendu pas
+vraiment au XVIII siècle — on les trouve depuis longtemps dans les couvents,
+dans les armées, dans les ateliers —, mais Foucault cherche à comprendre de quelle
+manière elles deviennent à un certain moment des formules générales de
+domination. « Le moment historique des disciplines, c’est le moment où naît un
+art du corps humain, qui ne vise pas seulement la croissance de ses habiletés, ni
+non plus l’alourdissement de sa sujétion, mais la formation d’un rapport qui dans
+le même mécanisme le rend d’autant plus obéissant qu’il est plus utile, et
+inversement? ». Cette « anatomie politique » investit alors les collèges, les hôpitaux,
+les lieux de la production, et plus généralement tout espace clos qui puisse
+permettre la gestion des individus dans l’espace, leur répartition et leur
+identification. Le modèle d’une gestion disciplinaire parfaite est proposé à travers la
+formulation benthamienne du « panopticon», lieu d’enfermement où les principes
+de visibilité totale, de décomposition des masses en unités et de réordonnancement
+complexe de celles-ci selon une hiérarchie rigoureuse permettent de plier chaque
+individu à une véritable économie du pouvoir : de nombreuses institutions
+disciplinaires — prisons, écoles, asiles — possèdent encore aujourd’hui une
+architecture panoptique, c’est-à-dire un espace caractérisé d’une part par
+l’enfermement et la répression des individus, et de l’autre par un allègement du
+fonctionnement du pouvoir.
+se Le modèle disciplinaire a sans doute été en partie construit à partir de
+l'expérience que Foucault a faite, à partir de 1971-72, au sein du G.I.P. (Groupe
+d'Information sur les Prisons). Il n’en reste pas moins qu’entre la publication de
+Surveiller et Punir (1975) et les cours au Collège de France de 1978-79, Foucault
+commence à travailler à un autre modèle d’application du pouvoir, le contrôle, qui
+1. « Les mailles du pouvoir », op. cit.
+2. Surveiller et Punir, op. cit, p. 139.
+3. Jbid.
+Foucault
+travaille à la fois à la description de l’intériorisation de la norme et de la structure
+réticulaire des techniques d’assujettissement, à la gestion des « populations » et aux
+tecniques de soi. Ce passage d’une lecture disciplinaire de l’histoire moderne à une
+lecture « contemporaine » du contrôle social a correspondu, à la fin des années 70,
+
+à un net engagement en faveur de ce que Foucault appelait une « ontologie de
+l'actualité ».
+Discours
+° Le discours désigne en général chez Foucault un ensemble d'énoncés qui
+peuvent appartenir à des champs différents mais qui obéissent malgré tout à des
+règles de fonctionnement communes. Ces règles ne sont pas seulement
+linguistiques ou formelles, mais reproduisent un certain nombre de partages
+historiquement déterminés (par exemple le grand partage raison / déraison) :
+l’« ordre du discours » propre à une période particulière possède donc une fonction
+normative et réglée et met en œuvre des mécanismes d’organisation du réel à
+travers la production de savoirs, de stratégies et de pratiques.
+°° L'intérêt de Foucault pour les « nappes discursives » a été immédiatement
+double. D’une part, il s'agissait d’analyser les traces discursives en cherchant à isoler
+des lois de fonctionnement indépendantes de la nature et des conditions
+d’énonciation de celles-ci, ce qui explique l'intérêt de Foucault à la même époque
+pour la grammaire, la linguistique et le formalisme : « il était original et important
+de dire que ce qui était fait avec le langage — poésie, littérature, philosophie,
+discours en général — obéissait à un certain nombre de lois ou de régularités
+internes : les lois et les régularités du langage. Le caractère linguistique des faits de
+langage a été une découverte qui a eu de l’importancel » ; mais, de l’autre, il
+s'agissait de décrire la transformation des types de discours au XVII® et au
+XVIIIS siècle, c’est-à-dire d’historiciser les procédures d’identification et de
+classification propres à cette période : en ce sens, l’archéologie foucaldienne des
+discours n’est plus une analyse linguistique mais une interrogation sur les
+conditions d’émergence de dispositifs discursifs dont il arrive qu’ils soutiennent des
+pratiques (comme dans Histoire de la Folie) ou qu’ils les engendrent (comme dans
+Les Mots et les Choses ou dans L'Archéologie du Savoir). En ce sens, Foucault
+substitue au couple saussurien langue / parole deux oppositions qu'il fait jouer
+alternativement : le couple discours / langage, où le discours est paradoxalement ce
+qui est rétif à l’ordre du langage en général (c’est par exemple le cas de
+l’« ésotérisme structural » de Raymond Roussel) — et il faut remarquer que
+Foucault lui-même annulera l’opposition en intitulant sa leçon inaugurale au
+Collège de France L'Ordre du Discours, en 1971 — ; et le couple discours / parole,
+où le discours devient l’écho linguistique de l’articulation entre savoir et pouvoir, et
+où la parole, en tant que subjective, incarne au contraire une pratique de résistance
+à l’« objectivation discursive ».
+1. « La vérité et les formes juridiques », op. cit.
+Judith Revel
++ L'abandon apparent du thème du discours après 1971, au profit d'une analyse
+des pratiques et des stratégies, correspond à ce que Foucault décrit comme le
+passage d’une archéologie à une « dynastique du savoir » : non plus seulement la
+description d’un régime de discursivité et de son éventuelle transgression, mais
+l'analyse « du rapport qui existe entre ces grands types de discours et les conditions
+Historiques, les conditions économiques, les conditions politiques de leur
+apparition! ». Or ce déplacement, qui revient en réalité à problématiser le passage
+méthodologique de l'archéologie à la généalogie, permet également de poser le
+problème des conditions de leur disparition : le thème des pratiques de résistance,
+omniprésent chez Foucault à partir des années 70, possède donc en réalité une
+origine discursive.
+Dispositif
+
++ Le terme « dispositifs » apparaît chez Foucault dans les années 70 et désigne
+initialement des opérateurs matériels du pouvoir, c’est-à-dire des techniques, des
+stratégies et des formes d’assujetissement mises en place par le pouvoir. À partir du
+moment où l’analyse foucaldienne se concentre sur la question du pouvoir, le
+philosophe insiste sur l'importance de s'occuper non pas « de l’édifice juridique de
+la souveraineté, du côté des appareils d’État, du côté des idéologies qui
+l’accompagnent? », mais des mécanismes de domination: c’est ce choix
+méthodologique qui engendre l’utilisation de la notion de « dispositifs ». Ceux-ci
+sont par définition de nature hétérogène : il s’agit tout autant de discours que de
+pratiques, d'institutions que de tactiques mouvantes : c’est ainsi que Foucault en
+arrivera à parler selon les cas de « dispositifs de pouvoir », de « dispositifs de
+savoir », de « dispositifs disciplinaires », de « dispositif de sexualité » etc.
+
+« L'apparition du terme « dispositif » dans le vocabulaire conceptuel de Foucault
+est probablement liée à son utilisation par Deleuze et Guattari dans Z Anti-CEdipe
+(1972) : c'est tout du moins ce que laisse entendre la préface que Foucault écrit en
+1977 pour l'édition américaine du livre, puisqu'il y remarque « les notions en
+apparence abstraites de multiplicités, de flux, de dispositifs et de branchements ».
+Par la suite, le terme recevra une acception à la fois de plus en plus large (alors
+qu’au début, Foucault n'utilise que l’expression « dispositif de pouvoir ») et de plus
+en plus précise, jusqu’à faire l’objet d’une théorisation complète après La volonté de
+savoir (1976), où l'expression « dispositif de sexualité » est centrale : un dispositif
+est «un ensemble résolument hétérogène, comportant des discours, des
+institutions, des aménagements architecturaux, des décisions réglementaires, des
+1. « De l'archéologie à la dynastique », entretien avec S. Hasumi, septembre 1972, repris in
+DE, vol. 3, texte n° 119.
+
+2. « Cours du 14 janvier 1976 », in Microfisica del Potere : interventi politici, Turin,
+Einaudi, 1977, repris in DE, vol. 3, texte n° 194.
+
+3. Préface à G. Deleuze et F. Guattari, Anti-Œdipus : Capitalism and Schizophrenia, New
+York, Viking Press, 1977, repris in DE, vol. 3, texte n° 189.
+Foucault
+lois, des mesures administratives, des énoncés scientifiques, des propositions
+philosophiques, morales, philanthropiques, bref : du dit aussi bien que du non-dit
+[...]. Le dispositif lui-même, c’est le réseau qu'on peut établir entre ces
+éléments! ». Le problème est alors pour Foucault d'interroger aussi bien la nature
+des différents dispositifs qu’il rencontre que leur fonction stratégique.
+ee En réalité, la notion de dispositif remplace peu à peu celle d’épistéme,
+employée par Foucault tout particulièrement dans Les Mots et les Choses et jusqu’à
+la fin des années 60. En effet, l'épistémè est un dispositif spécifiquement discursif,
+alors que le « dispositif » au sens ou Foucault l’emploiera dix ans plus tard contient
+
+également des institutions et des pratiques, c’est-à-dire « tout le social non-
+discursifZ ».
+Épistémè
+° Le terme d'« épistémè » est au centre des analyses des Mots et les Choses (1966)
+et a donné lieu à des débats nombreux dans la mesure où la notion est à la fois
+différente de celle de « système » — que Foucault n'utilise pratiquement jamais
+avant que sa chaire au Collège de France ne soit rebaptisée, en 1971 et à sa
+demande, « chaire d’histoire des systèmes de pensée » — et de celle de « structure ».
+Par épistémè, Foucault désigne en réalité un ensemble de rapports liant différents
+types de discours et correspondant à une époque historique donnée : « ce sont tous
+ces phénomènes de rapports entre les sciences ou entre les différents discours
+scientifiques qui constituent ce que j’appelle épistémè d’une époque ».
++ Les malentendus engendrés dans les années 60 par l'usage de la notion
+tiennent à deux raisons : on interprète d’une part l’épistémè comme un système
+unitaire, cohérent et fermé, c’est-à-dire comme une contrainte historique
+impliquant une surdétermination rigide des discours ; et de l’autre, on somme
+Foucault de rendre compte de sa relativité historique, c’est-à-dire d'expliquer la
+rupture épistémique et la discontinuité que le passage d’une épistémè à une autre
+implique nécessairement. Sur le premier point, Foucault répond que l’épistémè
+d’une époque n’est pas « la somme de ses connaissances, ou le style général de ses
+recherches, mais l’écart, les distances, les oppositions, les differences, les relations
+de ses multiples discours scientifiques : l’épistémè n’est pas une sorte de grande
+théorie sous-jacente, c'est un espace de dispersion, c’est un champ ouvert [...]
+l'épistémè n'est pas une tranche d'histoire commune à toutes les sciences ; c'est un jeu
+>
+
+. «Le jeu de Michel Foucault », Ornicar ? Bulletin périodique du champ freudien, n° 10,
+
+juillet 1977, repris in DE, vol. 3, texte n° 206.
+
+Ibid.
+
+« Les problèmes de la culture. Un débat Foucault-Preti », // Bimestre, n° 22-23, sept.-
+déc. 1972, repris in DE, vol. 2, texte n° 109.
+simultané de rémanences spécifiques” » : Plus qu’une forme générale de la
+conscience, Foucault décrit donc un faisceau de relations et de décalages : non pas
+un système, mais la prolifération et l’articulation de multiples systèmes qui se
+renvoient les uns aux autres. Sur le second point, Foucault revendique à travers
+l’usage de la notion la substitution de la question abstraite du changement
+(particulièrement vive à l’époque chez les historiens) par celle des « différents types
+de transformation » : « remplacer, en somme, le thème du devenir (forme générale,
+élément abstrait, cause première et effet universel, mélange confie de l'identique et
+du nouveau) par l'analyse des transformations dans leur spécificité2 ».
++ L'abandon de la notion d'épistémè correspond au déplacement de l'intérêt de
+Foucault, d’objets strictement discursifs à des réalités non-discursives — pratiques,
+stratégies, institutions etc : « Dans Les Mots et les Choses, en voulant faire une
+histoire de l’épistémè, je restais dans une impasse. Maintenant, ce que je voudrais
+faire, c’est essayer de montrer que ce que j’appelle dispositif est un cas beaucoup
+plus général de l’épistémè. Ou plutôt que l’épistémè, c’est un dispositif
+spécifiquement discursif, à la différence du dispositif qui est, lui, discursif et non
+discursif, ses éléments étant beaucoup plus hétérogènes? ».
+Esthétique (de l'existence)
++ Le thème d’une «esthétique de l'existence » apparaît très nettement chez
+Foucault au moment de la parution des deux derniers volumes de l’Histoire de la
+sexualité, en 1984. Foucault fait en effet la description de deux types de morale
+radicalement différents, une morale gréco-romaine tournée vers l’éthique et pour
+laquelle il s’agit de faire de sa vie une œuvre d'art, et une morale chrétienne où il
+s’agit au contraire essentiellement d’obéir à un code : « Et si je me suis intéressé à
+l’Antiquité, c’est que, pour toute une série de raisons, l’idée d’une morale comme
+obéissance à un code de règles est en train, maintenant, de disparaître, a déjà
+disparu. Et à cette absence de morale répond, doit répondre une recherche qui est
+celle d’une esthétique de l’existence® ». Les themes de l'éthique et de l'esthétique
+de l'existence sont donc étroitement liés.
+° _ L'« esthétique » de l'existence liée à la morale antique marque chez Foucault le
+retour au thème de l'invention de soi (faire de sa vie une œuvre d'ard : une
+problématisation à laquelle il était déjà arrivé en filigrane dans un certain nombre
+de textes « littéraires » dans les années 60 (par exemple dans le Raymond Roussel,
+mais également dans les analyses consacrées à Brisset et à Wolfson), et qu’il reprend
+. « Réponse à une question », Esprit, n° 371, mai 1968, repris in DE, vol. 1, texte n° 58.
+Les italiques sont ceux de Foucault.
+
+. Ibid.
+
+. « Le jeu de Michel Foucault », op. cit.
+. « Une esthétique de l'existence », Le Monde, 15-16 juillet 1984, repris in DE, vol. 4,
+texte n° 357.
+Foucault
+vingt ans plus tard à travers une double série discours. La première, au sein de
+l'Histoire de la Sexualité, est essentiellement liée à la problématisation de la rupture
+que représente la « pastorale chrétienne » par rapport à l’éthique grecque ; la
+seconde passe en revanche par l’analyse de l’« attitude de la modernité » (à travers la
+reprise du texte kantien sur les Lumières) et fait de l'invention de soi l’une des
+caractéristiques de cette attitude : la modernité, ce n’est pas seulement le rapport au
+présent mais le rapport à soi, dans la mesure où « être moderne, ce n’est pas
+s’accepter soi-même tel qu’on est dans le flux des moments qui passent ; c’est se
+prendre soi-même pour objet d’une élaboration complexe et dure: ce que
+Baudelaire appelle, selon le vocabulaire de l’époque, le “dandysmel” ».
+L’esthétique de l’existence, c’est donc à la fois ce que Foucault repère hors de
+l'influence de la pastorale chrétienne (temporellement : le retour aux Grecs ;
+spatialement : l'intérêt contemporain de Foucault pour le zen et la culture
+japonaise) et ce qui doit à nouveau caractériser le rapport que nous entretenons
+avec notre propre actualité.
+°° Le rthème de l'esthétique de l'existence comme production inventive de soi ne
+marque cependant pas un retour à la figure du sujet souverain, fondateur et
+universel, ni à un abandon du champ politique : : « je pense au contraire que le sujet
+se constitue à travers des pratiques d’ SHINE ou, d’une fagon plus
+autonome, A travers des pratiques de libération? ». L’esthetique de l’existence, dans
+la mesure où elle est une pratique éthique de production de subjectivité, est en
+même temps assujettie et résistante : c’est donc un geste éminemment politique.
+Éthique
+®e Dans les derniers volumes de l'Histoire de la sexualité, Foucault distingue
+clairement entre ce qu’il faut entendre par « morale » et ce que signifie « éthique ».
+La morale est au sens large un ensemble de valeurs et de règles d’action qui sont
+proposés aux individus et aux groupes par l'intermédiaire de différents appareils
+prescriptifs (la famille, les institutions éducatives, les Églises etc.) ; cette morale
+engendre une « moralité des comportements », c’est-à-dire une variation
+individuelle plus ou moins consciente par rapport au système de prescriptions du
+code moral. En revanche, l’éthique concerne la manière dont chacun se constitue
+soi-même comme sujet moral du code : « Un code d’actions étant donné [...], il y
+a différentes manières de “se conduire” moralement, différentes manières pour
+l'individu agissant d’opérer non seulement comme agent, mais comme sujet moral
+de cette action? ».
+D
+
+« What is Enlightenment ? », op. cit.
+
+« Une esthétique de l'existence », op. cit.
+
+« Usage des plaisirs et techniques de soi », Le Débat, n° 27, novembre 1983, repris in
+DE, vol. 4, texte n° 338.
+* À toute éthique correspond la détermination d’une « swbstance éthique », c'est-
+à-dire la manière dont un individu fait de telle ou telle part de lui-même la matière
+principale de sa conduite morale; de la même manière, elle implique
+nécessairement un mode d’assujettissement, c’est-à-dire la manière dont un
+individu entre en rapport avec une règle ou à un système de règles et éprouve
+l'obligation de les mettre en œuvre. L’éthique gréco-romaine que décrit Foucault,
+en particulier dans le second volume de l'Histoire de la Sexualité, L'Usage des
+Plaisirs, a pour substance éthique les aphrodisia, et son mode d’assujettissement est
+un choix personnel esthético-politique (il ne s’agit pas tant de respecter un code
+que de « faire de sa vie une œuvre d’art »). En revanche, la morale chrétienne
+fonctionne non pas sur le choix mais sur l’obéissance, non pas sur les aphrodisia
+(qui sont en même temps le plaisir, le désir et les actes) mais sur la « chair » (qui
+met entre parenthèses aussi bien le plaisir que le désir) : avec le christianisme, « le
+mode d’assujettissement est à présent constitué par la loi divine. Et je pense que
+même la substance éthique se transforme à son tour : elle n’est plus constituée par
+les aphrodisia, mais par le désir, la concupiscence, la chair etc.l »
+se Le terme d'éthique apparaît pour la première fois de manière réellement
+significative en 1977, dans un texte sur l’Anti-Œdipe de Deleuze et Guattari : « Je
+dirais que l’Anti-Œdipe (puissent ses auteurs me pardonner) est un livre d’éthique,
+le premier livre d'éthique que l’on ait écrit en France depuis assez longtemps? ». Et
+il est intéressant de constater que Foucault caractérise de la même manière,
+quelques années plus tard, sa propre Histoire de la Sexualité : « si, par “éthique”,
+vous entendez le rapport qu’a l'individu à lui-même lorsqu'il agit, alors je dirais
+qu’elle tend à être une éthique, ou du moins à montrer ce que pourrait être une
+éthique du comportement sexuel? ». Et au-delà de la sexualité, le projet d’une
+« ontologie critique de l'actualité » reçoit parfois la formulation d’une « politique
+comme une éthique » : c’est dire que l’intérêt pour l’éthique des années 80, bien
+loin d’être la fin de la problématisation philosophique et historique des stratégies
+du pouvoir et de leur application aux individus, repropose l'analyse du champ
+politique à partir de la constitution éthique des sujets, à partir de la prodperian de
+subjectivité,
+Événement
+°e Par événement, Foucault entend tout d'abord de manière négative un fait dont
+certaines analyses historiques se contentent de fournir la description. La méthode
++ «À propos de la généalogie de l'éthique : un aperçu du travail en cours », in H. Dreyfus
+et P. Rabinow, Michel Foucault : Beyond Structuralism and Hermeneutics, op. cit., repris
+in DE, vol. 4, texte n° 326.
+
+. « Préface» à Gilles Deleuze et Félix Guattari, Anti-Œdipus : Capitalism and
+Schizophrenia, op. cit.
+
+. « Une interview de Michel Foucault par Stephen Riggins », Ethos, vol. 1, n° 2, 1983,
+repris in DE, vol. 4, texte n° 336.
+Foucault
+archéologique foucaldienne cherche au contraire à reconstituer derrière le fait tout
+un réseau de discours, de pouvoirs, de stratégies et de pratiques. C’est par exemple
+le cas du travail réalisé sur le dossier Pierre Rivière : «en reconstituant ce crime de
+l'extérieur [...], comme si c'était un en et rien d’autre qu’un événement
+criminel, je crois qu’on manque l’essentiell ». Cependant, dans un deuxième
+temps, le terme « événement » commence à apparaître chez Foucault, de manière
+positive, comme une cristallisation de déterminations historiques complexes qu’il
+oppose à l’idée de structure : « On admet que le structuralisme a été l'effort le plus
+systématique pour évacuer non seulement de l’ethnologie, mais de toute une série
+d’autres sciences, et même à la limite de l’histoire, le concept d'événement. Je ne
+vois pas qui peut être plus anti-structuraliste que moi? ». Le programme de
+Foucault devient donc l'analyse des différents réseaux et niveaux auxquels certains
+événements appartiennent. C’est par exemple le cas, quand il lui arrive de définir le
+discours comme une série d'événements, et qu’il se pose plus généralement le
+problème du rapport entre des « événements discursifs » et des événements d’une
+autre nature (économiques, sociaux, politiques, institutionnels).
++ C'est à partir de cette position de l'événement au centre de ses analyses que
+Foucault revendique le statut d’historien — peut-être aussi parce que, comme il le
+remarque lui-même, l’événement n’a guère été une catégorie philosophique, sauf
+peut-être chez les Stoïciens : « Le fait que je considère le discours comme une série
+d'événements nous place automatiquement dans la dimension de l’histoire [...]. Je
+ne suis pas un historien au sens strict du terme, mais les historiens et moi avons en
+commun un intérêt pour l'événement [...]. Ni la logique du sens, ni la logique de
+la structure ne sont pertinentes pour ce type de recherche? ». C’est donc lors d’une
+discussion avec des historiens* que Foucault donne la définition de
+« l’événementialisation » : non pas une histoire événementielle mais la prise de
+conscience des ruptures d’évidence induites par certains faits. Ce qu’il s’agit alors
+de montrer, c’est l’irruption d’une « singularité » non nécessaire : l’événement que
+représente l’enfermement, l'événement de l'apparition de la catégorie de « malades
+mentaux » etc.
+se À partir de la définition de l’événement comme irruption d’une singularité
+historique, Foucault va développer deux discours. Le premier consiste à dire que
+nous répétons sans le savoir les événements, « nous les répétons dans notre
+actualité, et j'essaie de saisir quel est l'événement sous le signe duquel nous sommes
+nés, et quel est l’événement qui continue encore à nous traverser ».
+L'événementialisation de l’histoire doit donc se prolonger de manière généalogique
+. « Entretien avec Michel Foucault », Cahiers du Cinéma, n° 271, novembre 1976, repris
+in DE, vol. 3, texte n° 180.
+
+. « Entretien avec Michel Foucault », in A. Fontana et P. Pasquino, Microfisica del potere :
+interventi politici, op. cit., repris in DE, vol. 3, texte n° 192.
+
+. « Dialogue sur le pouvoir », op. cit.
+
+. « La poussière et le nuage », in M. Perrot (éd.), L'impossible prison, Paris, Seuil, 1980,
+repris in DE, vol. 4, texte n° 277.
+Judith Revel
+par une événementialisation de notre propre actualité. Le second discours consiste
+précisément à chercher dans notre actualité les traces d’une « rupture
+événementielle » — trait que Foucault repère déjà dans le texte kantien consacré
+aux Lumières et dans les réflexions sur la Révolution française, et qu’il croit
+retrouver lors de la révolution iranienne, en 1979 — car c’est sans doute là la
+valeur de rupture de toutes les révolutions : « La révolution [...] risquera de
+retomber dans l’ornière, mais comme événement dont le contenu même est
+Apart son existence atteste une virtualité permanente et qui ne peut être
+oublidel::,.
+Expérience
+° La notion d'expérience est présente tout au long du parcours philosophique de
+Foucault, mais elle subit d'importantes modifications au cours des années. S’il est
+vrai que, de manière générale « l’expérience est une quelque chose dont on sort soi-
+même transformé? », Foucault se réfère initialement à une expérience qui doit
+beaucoup à la fois à Bataille et à Blanchot : au croisement d’une expérience de la
+limite et d’une expérience du langage considérée comme « expérience du dehors »,
+il cherche en effet à définir — en particulier dans le domaine de la littérature —
+une expérience de l’illimité, de l’infranchissable, de l'impossible, c’est-à-dire qui
+affronte en réalité la folie, la mort, la nuit ou la sexualité en creusant dans
+l'épaisseur du langage son propre espace de parole. Dans un: second temps, très
+différemment, l’expérience devient pour Foucault la seule manière de distinguer la
+généalogie tout à la fois d’une démarche empirique ou positiviste et d’une analyse
+théorique : si certaines problématisations naissent d’une expérience (par exemple
+l'écriture de Surveiller et Punir après l'expérience du Groupe d'Information sur les
+Prisons et, plus généralement, après 1968), c’est au sens où la pensée philosophique
+de Foucault est véritablement une expérimentation : elle donne en effet à voir le
+mouvement de constitution historique des discours, des pratiques, des rapports de
+pouvoir et des subjectivités, et c’est parce qu’elle en fait la généalogie qu’elle en sort
+elle-même modifiée : « Mon problème est de faire moi-même, et d’inviter les autres
+à faire avec moi, à travers un contenu historique déterminé, une expérience de ce
+que nous sommes, de ce qui est non seulement notre passé mais aussi notre
+présent, une expérience de notre modernité telle que nous en sortions
+transformés) »:
+Alors que l'expérience phénoménologique (à laquelle Foucault se réfère encore
+en partie dans ses textes des années 50) cherche en réalité à « ressaisir la
+signification de l’expérience quotidienne pour retrouver en quoi le sujet que je suis
+est bien effectivement fondateur, dans ses fonctions transcendantales, de cette
+. « Qu est-ce que les Lumières », op. cit.
+
+. « Entretien avec Michel Foucault » (avec Duccio Trombadori, Paris, fin 1978), Z/
+Contributo, 4 année, n° 1, Salerne, 1980, repris in DE, vol. 4, texte n° 281.
+
+. « Entretien avec Michel Foucault », op. cit.
+Foucault
+expérience et de ces significations! », la référence à Nietzsche, à Bataille et à
+Blanchot permet au contraire de définir l’idée d’une expérience-limite qui arrache
+le sujet à lui-même et lui impose son éclatement ou sa dissolution. C’est pour cette
+raison que Foucault, s’il reconnaît par exemple à Breton d’avoir tenté de parcourir
+un certain nombre d’expériences-limites, reproche pourtant aux surréalistes de les
+avoir maintenues dans un espace de la psyché, et que la référence à Bataille devient
+du même coup essentielle ; c’est également parce qu'il est construit à partir de
+l'effacement du sujet que le discours de l’expérience comme passage à la limite n’est
+en réalité pas si éloigné des autres analyses de Foucault dans les années 60 : il rend
+actuel l'horizon dessiné par la fin des Mots et les Choses — la possible disparition de
+l’homme à la fois comme conscience autonome et comme objet de connaissance
+privilégié : « une expérience est en train de naître où il y va de notre pensée ; son
+imminence, déjà visible mais vide absolument, ne peut être encore nommée ».
+ee S'il est vrai que la plupart des analyses de Foucault naissent d’une expérience
+personnelle — comme il le reconnaît lui-même —, elles ne peuvent en aucun cas y
+être réduites. Tout le problème semble au contraire de trouver la manière de
+reformuler la notion d’expérience en l’élargissant au-delà de soi (un soi déjà
+malmené par la critique des philosophies du sujet) : l’expérience est quelque chose
+que l’on fait tout seul, mais qui n’est pleine que dans la mesure où elle échappe à la
+pure subjectivité, c’est-à-dire que d’autres peuvent la croiser ou la retraverser. À
+partir des années 70, c’est donc sur le terrain d’une pratique collective — c’est-à-
+dire dans le champ du politique — que Foucault cherche à poser le problème de
+l'expérience comme moment de transformation : le terme est alors associé la fois à
+la résistance aux dispositifs de pouvoir (expérience révolutionnaire, expérience des
+luttes, expérience du soulèvement) et aux processus de subjectivation.
+Folie
+® Le thème de la folie est bien entendu au centre de l’Histoire de la Folie que
+Foucault publie en 1961 : il s’agit en effet d’analyser la manière dont, au
+XVIIS siècle, la culture classique a rompu avec la représentation médiévale d’une
+folie à la fois circulante (la figure de « la nef des fous ») et considérée comme le lieu
+imaginaire du passage (du monde à l’arrière-monde, de la vie à la mort, du tangible
+au secret etc.). L'âge classique définit au contraire la folie à partir d’un partage
+vertical entre la raison et la déraison : elle la constitue donc non plus comme cette
+zone indéterminée qui donnerait accès aux forces de l'inconnu (la folie comme au-
+delà du savoir, c’est-à-dire à la fois comme menace et comme fascination), mais
+comme l’Autre de la raison selon le discours de la raison elle-même. La folie
+comme déraison, c’est la définition paradoxale d’un espace ménagé par la raison au
+sein de son propre champ pour ce qu’elle reconnaît comme autre.
+1. Ibia.
+2. « La folie, l'absence d'œuvre », La Table Ronde, n° 196 : Situation de la psychiatrie
+1964, repris in DE, vol. 1, texte n° 25.
+Judith Revel
++ Le recit de cette scission fondatrice d’inclusion passe par un certain nombre de
+procédures et d'institutions qui possèdent une histoire. Le but de Foucault n’a
+pourtant jamais été de faire l’histoire de l’enfermement ou de l'asile, mais du
+discours qui constitue les fous comme objets de savoir — c’est-à-dire aussi de cet
+étrange lien entre raison et déraison qui autorise la première à produire un discours
+de savoir sur la seconde. Il s’agit par conséquent de faire avant tout l’histoire d’un
+pouvoir : « ce qui était impliqué au premier chef dans ces relations de pouvoir,
+c'était le droit absolu de la non-folie sur la folie. Droit transcrit en termes de
+compétence s’exerçant sur une ignorance, de bon sens (d’accès à la réalité)
+corrigeant des erreurs (illusions, hallucinations, fantasmes), de la normalité
+s'imposant au désordre et à la déviation ». Ce triple pouvoir constitue la folie
+comme objet de connaissance, et c’est pour cette raison qu'il faut alors faire
+l’histoire des modifications des discours sur la folie : du grand enfermement
+— invention d’un lieu inclusif d'exclusion — à l'apparition d’une science médicale
+de la folie (de la « maladie mentale » à la psychiatrie contemporaine), Foucault fait
+en réalité la généalogie de l’un des visages possibles de cette forme singulière du
+pouvoir-savoir qu'est la connaissance. On comprend alors quel discours de
+Foucault ait été rapidement été associé à l’antipsychiatrie de Laing et Cooper, de
+Basaglia, ou — plus tardivement — à l’Anti-Œdipe de Deleuze et Guattari, c’est-à-
+dire à des discours de remise en cause du lien connaissance / assujettissement dans
+la pratique psychiatrique : « Est-il possible que la production de la vérité de la folie
+puisse s'effectuer dans des formes qui ne sont pas celles du rapport de
+connaissance? ? ». La lecture de l’histoire de la folie comme histoire de la
+constitution du pouvoir-savoir pousse Foucault à utiliser la figure de l’asile comme
+paradigme général d’analyse des rapports de pouvoir dans la société jusqu’au début
+des années 70. Le passage à une autre formulation du pouvoir permet alors de
+comprendre l'abandon relatif du thème de la folie au profit du thème plus général
+de la médicalisation (le contrôle comme médecine sociale) : non seulement parce
+qu’alors que l’enfermement ne donnait à voir que le paradoxe d’une connaissance
+jouant contemporainement sur l’exclusion (spatiale) et sur l’inclusion (discursive),
+la figure de l’hôpital rend compte de la manière dont, à partir du début du
+XIX® siècle, le pouvoir gère désormais la vie (sous la forme des bio-pouvoirs) ; mais
+parce que Foucault abandonne une conception purement négative du pouvoir (« II
+m'a semblé, à partir d’un certain moment, que c'était insuffisant, et cela au cours
+d’une expérience concrète que j'ai pu faire, à partir des années 1971-1972, à
+propos des prisons »). Des recherches sur la folie aux analyses des mécanismes de
+gouvernementalité, c’est donc un changement de lecture des rapports de pouvoir
+qui est en jeu.
+. « Le pouvoir psychiatrique », Annuaire du Collège de France, 74° année, Chaire d'histoire
+des systèmes de pensée, année 1973-1974, 1974, repris in DE, vol. 2, texte n° 143.
+
+. « Le pouvoir psychiatrique », op. cit.
+
+. « Les rapports de pouvoir passent à l’intérieur des corps », op. cit.
+Foucault
++ Pendant les années 60, le thème de la folie est en généralement croisé avec
+celui de la littérature et, plus généralement, avec celui de l’irréductibilité d’un
+certain type de parole qui est en général incarné par trois figures superposées : le
+fou (Hölderlin, Nerval, Nietzsche, Roussel, Artaud), l'écrivain (Sade, Hölderlin,
+Nerval, Mallarmé, Roussel, Breton, Bataille, Blanchot), le philosophe (Nietzsche
+— et Foucault lui-même ?). « La littérature semble retrouver sa vocation la plus
+profonde lorsqu'elle se retrempe dans la parole de la folie. La plus haute parole
+poétique, c’est celle de Hôlderlin, comme si la littérature, pour arriver à se
+désinstitutionnaliser, pour prendre toute la mesure de son anarchie possible, était
+en certains moments re ua ou bien d’imiter la folie ou bien plus encore de
+devenir litteralement folle! ». En marge des analyses de l'histoire de la folie, l'idée
+d’une parole philosophique ou littéraire qui puiserait dans la folie son
+irréductibilité à l’ordre du discours n’est pas seulement le résidu
+phénoménologique d’une expérience cruciale ou la reprise de l’expérience de la
+limite que l’on trouve chez Bataille : elle permet à Foucault de problématiser pour
+la première fois l’idée de la résistance au pouvoir — un thème que l'on retrouvera,
+dans les années 70, formulé différemment dans le cadre des analyses politiques sous
+la forme d’un discours sur la production de subjctivité comme désasujettissement,
+c'est-à-dire aussi sous la forme d’un rapport éthique à soi.
+Généalogie
++ Dès la publication des Mots et Les Choses (1966), Foucault qualifie son projet
+d'archéologie des sciences humaines davantage comme une « généalogie
+nietzschéenne » que comme une œuvre structuraliste. C’est à donc à l’occasion
+d’un texte sur Nietzsche que Foucault revient sur le concept : la généalogie, c’est
+une enquête historique qui s'oppose au « déploiement métahistorique des
+significations idéales et des indéfinies téléologies », qui s’oppose à l’unicité du
+récit historique et à la recherche de l’origine, et qui recherche au contraire la
+«singularité des événements hors de toute finalité monotone ». La généalogie
+travaille donc à partir de la diversité et de la dispersion, du hasard des
+commencements et des accidents : en aucun cas elle ne prétend remonter le temps
+
+- pour rétablir la continuité de l’histoire, mais elle cherche au contraire à restituer les
+événements dans leur singularité
+
+++ L'approche généalogique n’est cependant pas un simple empirisme : « ce n’est
+pas non plus un positivisme au sens ordinaire du terme : il s’agit en fait de faire
+jouer des savoirs locaux, discontinus, disqualifiés, non légitimés, contre l’instance
+théorique unitaire qui prétendrait les filtrer, les hiérarchiser, les ordonner au nom
+. « La folie et la société », in M. Foucault et M. Watanabe, Telsugaku no butai, Tokyo,
+1978, repris in DE, vol. 3, texte n° 222.
+
+. « Nietzsche, la généalogie, l'histoire », Hommage à Jean Hyppolite, Paris, PUF, 1971,
+repris in DE, vol. 2, texte n° 84.
+
+. Ibid.
+Judith Revel
+d'une connaissance vraie [...]. Les généalogies ne sont donc pas des recours
+positivistes à une forme de science plus attentive ou plus exacte ; les généalogies, ce
+sont très exactement des antisciences! ». La méthode généalogique est donc une
+tentative de désassujettir les savoirs historiques, c’est-à-dire de les rendre capables
+d'opposition et de lutte contre « l’ordre du discours » ; cela signifie que la
+généalogie ne recherche pas seulement dans le passé la trace d’événements
+singuliers, mais qu’elle se pose la question de la possibilité des événements
+aujourd’hui : « elle dégagera de la contingence qui nous a fait être ce que nous
+sommes la possiiine de ne plus être, faire ou penser ce que nous sommes, faisons
+ou pensons ».
+ee La généalogie permet de rendre compte de manière cohérente du travail de
+Foucault depuis les premiers textes (avant que le concept de généalogie ne
+commence à être employé) jusqu'aux derniers. Foucault indique en effet qu’il y a
+trois domaines de généalogie possibles : une ontologie historique de nous-mêmes
+dans nos rapports à la vérité, qui nous permet de nous constituer comme sujets de
+connaissance ; dans nos rapports à un champ de pouvoir, qui nous permet de nous
+constituer comme sujets agissants sur les autres ; et dans nos rapports à la morale,
+qui nous permet de nous constituer en agents éthiques. « Tous les trois étaient
+présents, même d’une manière un peu confuse, dans l'Histoire de la Folie. J'ai
+étudié l’axe de la vérité dans Naissance de la Clinique et dans L'Archéologie du
+Savoir. J'ai développé l’axe du pouvoir dans Surveiller et Punir et l'axe moral dans
+PHlistire de La SovualitÀ ».
+Gouvernementalite
+* À partir de 1978, Foucault analyse dans son cours au Collège de France la
+rupture qui s’est produite entre la fin du XVIE siècle et le début du XVIE siècle et
+qui marque le passage d’un art de gouverner hérité du Moyen Âge, dont les
+principes reprennent les vertus morales traditionnelles (sagesse, justice, respect de
+Dieu) et l'idéal de mesure (prudence, réflexion), à un art de gouverner dont la
+rationalité a pour principe et champ d’application le fonctionnement de l’État : la
+« gouvernementalité » rationnelle de l'État. Cette « raison d’État » n’est pas ici à
+entendre comme la suspension impérative des règles préexistantes mais comme une
+nouvelle matrice de rationalité qui n’a à voir ni avec le souverain de justice, ni avec
+le modèle machiavellien du Prince.
+«Par ce mot de ‘’gouvernementalité”, je veux dire trois choses. Par
+gouvernementalité, j'entends l’ensemble constitué par les institutions, les
+procédures, analyses et réflexions, les calculs et les tactiques qui permettent
+Lac
+
+. « Cours du 7 janvier 1976 », in Microfisica del potere, op. cit., repris in DE, vol. 3, texte
+
+n° 193.
+« What is Enlightenment ? », op. cit.
+« À propos de la généalogie de l’éthique : un aperçu du travail en cours », op. cit.
+Foucault
+d exercer cette forme bien spécifique, bien que complexe, de pouvoir, qui a pour
+cible principale la population, pour forme majeure de savoir l’économie politique,
+pour instrument technique essentiel les dispositifs de sécurité. Deuxièmement, par
+gouvernementalité, j'entends la tendance, la ligne de force qui, dans tout
+l'Occident, n’a pas cessé de conduire, et depuis fort longtemps, vers la prééminence
+de ce type de pouvoir qu’on peut appeler le “gouvernement” sur tous les autres :
+souveraineté, discipline [...]. Enfin par gouvernementalité, je crois qu’il faudrait
+entendre le processus ou, plutôt, le résultat du processus par lequel l’État de justice
+du Moyen Âge, devenu aux XVE et XVE siècles État administratif, s’est trouvé
+petit à petit « gouvernementalisél ». La nouvelle gouvernementalité de la raison
+d’État s'appuie sur deux grands ensembles de savoirs et de technologies politiques,
+une technologie politico-militaire et une « police ». Au croisement de ces deux
+technologies, on trouve le commerce et la circulation inter-étatique de la monnaie :
+« c’est de l’enrichissement par le commerce qu’on attend la possibilité d'augmenter
+la population, la main d'œuvre, la production et l'exportation, et de se doter
+d’armées fortes et nombreuses. Le couple population-richesse fut, à l’époque du
+mercantilisme et de la caméralistique, l’objet privilégié de la nouvelle raison
+gouvernementale? ». Ce couple est au fondement même de la formation d’une
+« économie politique ».
+
++ La gouvernementalité moderne pose pour la première fois le problème
+politique de la « population », c’est-à-dire non pas la somme des sujets d’un
+territoire, l’ensemble des sujets de droit ou la catégorie générale de l’« espèce
+humaine », mais l’objet construit par la gestion politique globale de la vie des
+individus (biopolitique). Cette biopolitique implique cependant non seulement
+une gestion de la population mais un contrôle des stratégies que les individus, dans
+leur liberté, peuvent avoir par rapport à eux-mêmes et les uns par rapport aux
+autres. Les technologies gouvernementales concernent donc aussi bien le
+gouvernement de l'éducation et de la transformation des individus, celui des
+relations familiales et celui des institutions. C’est pour cette raison que Foucault
+prolonge l’analyse de la gouvernementalité des autres par une analyse du
+gouvernement de soi : « J'appelle “gouvernementalité” la rencontre entre les
+techniques de domination exercées sur les autres et les techniques de soi? ».
+(suerre
+° Foucault s intéresse à la guerre pendant une période relativement brève, entre
+1975 et 1977, et de manière extrêmement intense puisqu'il lui consacre une année
+1. « La gouvernementalité », Cours au Collège de France, 1977-1978 : « Sécurité, territoire,
+population », 4€ leçon, 1% février 1978, in DE, vol. 3, texte n° 239.
+
+2. « Sécurité, territoire, population », Annuaire du Collège de France, 78° année, Histoire des
+systèmes de pensée, année 1977-1978, 1978, repris in DE, vol. 3, texte n° 255.
+
+3. « Les techniques de soi», in Technologies of the Self. A Seminar with M. Foucault,
+Massachusetts U. P., 1988, repris in DE, vol. 4, texte n° 363.
+Judith Revel
+de cours au Collège de France!. La première référence à la guerre se limite à
+retourner la formule clausewitzienne afin de décrire la situation de crise
+internationale créée par les chocs pétroliers : « la politique est la continuation de la
+guerre par d’autres moyens? ». Par la suite, Foucault revient théoriquement sur le
+thème de la guerre dans la mesure où, le pouvoir étant essentiellement un rapport
+de forces, les schémas d'analyse du pouvoir « ne doivent pas être empruntés à la
+psychologie ou à la sociologie, mais à la stratégie. Et à l’art de la guerre? ». Cette
+affirmation, reformulée de manière interrogative, devient le cœur du cours « Il faut
+défendre la société » : si la notion de « stratégie » est essentielle pour faire l’analyse
+des dispositifs de savoir et de pouvoir, et si elle permet en particulier d’analyser les
+rapports de pouvoir à travers des techniques de domination, peut-on alors dire que
+la domination n’est qu’une forme continuée de la guerre ?
+* La question de savoir si la guerre peut valoir comme grille d'analyse des
+rapports de pouvoir se subdivise en plusieurs problèmes : la guerre est-elle un état
+premier dont tous les phénomènes de domination et de hiérarchisation sociale
+dérivent ? Les processus d’antagonisme et de luttes, qu’ils soient individuels ou de
+classe, sont-ils reconductibles au modèle général de la guerre ? Les institutions et les
+procédés militaires sont-ils le cœur des institutions politiques ? Et surtout, qui a
+d’abord pensé que la guerre était la continuation de la politique par d’autres
+moyens, et depuis quand ? Le cours, qui s’attarde sur la rupture entre le droit de
+paix et de guerre caractéristique du pouvoir médiéval et la conception politique de
+la guerre à partir du XVII siècle, cherche essentiellement à répondre à la dernière
+question ; le modèle de la guerre est par la suite abandonné par Foucault au profit
+d'un modèle d’analyse des rapports de pouvoir plus complexe, la
+« gouvernementalite ».
+* Foucault repère au XVII siècle un discours historico-politique — « très
+différent du discours philosophico-juridique ordonné au problème de la
+souveraineté* » — qui transforme la guerre en un fond permanent de toutes les
+institutions de pouvoir. En France, ce discours, qui a été développé en particulier
+par Boulainvilliers, affirme que c’est la guerre qui a présidé à la naissance des États :
+non pas la guerre imaginaire et idéale comme chez les philosophes de l’état de
+nature — « c’est la non-guerre pour Hobbes qui fonde l’État et lui donne sa
+forme? » —, mais une guerre réelle, une « bataille » dont la même année, Surveiller
+et Punir nous incite à entendre le « grondement sourd ».
+. «Il faut défendre la société », Annuaire du Collège de France, 76° année, année 1975-
+1976, repris in DE, vol. 3, texte n° 187. |
+. «La politique est la continuation de la guerre par d’autres moyens », L’/mprevu, n° 1,
+janvier 1975, repris in DE, vol. 2, texte n° 148.
+
+. « Michel Foucault, l’illégalisme et l’art de punir », La Presse, n° 80, 3 avril 1976, repris
+in DE, vol. 3, texte n° 175.
+
+. «Il faut défendre la société », op. cit.
+
+… Jbid.
+Foucault
+Histoire
+
++ Bien que le terme d’« histoire » apparaisse à de nombreuses reprises dans les
+titres des ouvrages de Michel Foucault, il recouvre en réalité trois axes de discours
+distincts. Le premier consiste en une reprise explicite de Nietzsche, c’est-à-dire tout
+à la fois de la critique de l’histoire conçue comme continue, linéaire, pourvue d’une
+origine et d’un #ebos, et de la critique du discours des historiens comme « histoire
+monumentale » et supra-historique. C’est donc cette lecture nietzschéenne qui
+pousse Foucault à adopter dès le début des années 70 le terme de « généalogie » : il
+s’agit de retrouver la discontinuité et l'événement, la singularité et les hasards, et de
+formuler un type d'approche qui ne prétende pas réduire la diversité historique
+mais qui en soit l’écho. Le deuxième axe correspond à la formulation d’une
+véritable « pensée de l'événement » — de manière très proche de ce que fait
+Deleuze à la même époque —, c’est-à-dire à l’idée d’une histoire mineure faite
+d’une infinité de traces silencieuses, de récits de vies minuscules, de fragments
+d’existences — d’où l'intérêt de Foucault pour les archives. Le troisième axe se
+développe précisément à partir des archives, et il induit Foucault à collaborer avec
+un certain nombre d’historiens, c’est-à-dire à la fois à problématiser ce que devrait
+être le rapport entre la philosophie et l’histoire (ou plus exactement entre la
+pratique philosophique et la pratique historienne) une fois sortis du traditionnel
+doublet philosophie de l’histoire / histoire de la philosophie, et à interroger de
+manière critique l’évolution de l’historiographie française depuis les années 60.
++ En réalité, il semble que le discours de Foucault oscille entre deux positions :
+d’une part, l’histoire n’est pas une durée mais « une multiplicité de durées qui
+s’enchevêtrent et s’enveloppent les unes dans les autres [...] le structuralisme et
+l’histoire permettent d'abandonner cette grande mythologie biologique de l’histoire
+et de la duréel » — ce qui revient à affirmer que seule une approche qui fasse jouer
+la continuité des séries comme clé de lecture des discontinuités rend en réalité
+compte « des événements qui autrement ne seraient pas apparus? ». L'événement
+n’est pas en soi source de la discontinuité ; mais c’est le croisement d’une histoire
+sérielle et d’une histoire événementielle — série et événement ne constituant pas le
+fondement du travail historien mais son résultat à partir du traitement de
+documents et d’archives — qui permet de faire émerger en même temps des
+dispositifs et des points de rupture, des nappes de discours et des paroles
+singulières, des stratégies de pouvoir et des foyers de résistance etc. « Événement : il
+faut entendre par là non pas une décision, un traité, un règne, ou une bataille, mais
+un rapport de forces qui s’inverse, un pouvoir confisqué, un vocabulaire repris et
+retourné contre ses utilisateurs, une domination qui s’affaiblit, se détend et
+s'empoisonne elle-même, une autre qui fait son entrée, masquée? ». D’autre part,
+cette revendication d’une histoire qui fonctionnerait non pas comme analyse du
+1. « Revenir à l'histoire », Paideia, n° 11, février 1972, repris in DE, vol. 2, texte n° 103.
+2. Ibid.
+3. « Nietzsche, la généalogie, l’histoire », op. cit.
+Judith Revel
+passé et de la durée mais comme mise en lumière des transformations et des
+événements se définit parfois comme une véritable « histoire événementielle » à
+travers la référence à un certain nombre d’historiens qui ont étudié le quotidien, la
+sensibilité, les affects (Foucault cite à plusieurs reprises Le Roy Ladurie, Ariès et
+Mandrou) ; et même s’il est reconnu à l’école des Annales — et en particulier à
+Marc Bloch puis à Fernand Braudel — le mérite d’avoir démultiplié les durées et
+redéfini l'événement non pas comme un segment de temps mais comme le point
+d’intersection de durees differentes, il n’en reste pas moins que Foucault finit par
+opposer son propre travail sur l’archive A l’histoire sociale des classements qui
+caractérise pour lui une bonne partie de l’historiographie française depuis les
+années 60 : « Entre l’histoire sociale et les analyses formelles de la pensée, il y a une
+voie, sue piste — très étroite, peut-être — qui est celle de l'historien de la
+penséel ». C’est la possibilité de cette « piste étroite » qui alimentera le débat
+toujours plus vif entre Foucault et les historiens et qui motivera une collaboration
+occasionnelle avec certains d’entre eux (depuis le groupe d’historiens ayant travaillé
+au dossier Pierre Rivière jusqu’à Arlette Farge et Michelle Perrot).
+se Le thème de l'histoire comme enquête sur les transformations et sur les
+événements est étroitement lié à celui de l’actualité. Si l’histoire n’est pas mémoire
+mais généalogie, alors l’analyse historique n’est en réalité que la condition de
+possibilité d’une ontologie critique du présent. Cette position doit cependant éviter
+deux écueils — qui correspondent de fait aux deux grands reproches qui ont été
+faits à Foucault de son vivant concernant son rapport à l’histoire — : l’utilisation
+d’une enquête historique n'implique pas une « idéologie du retour » (Foucault ne
+s'occupe pas de l'éthique gréco-romaine afin de donner un « modèle à suivre » qu’il
+s'agirait d’actualiser) mais une historicisation de notre propre regard à partir de ce
+que nous ne sommes plus ; l'histoire doit nous protéger d’un « historicisme qui
+invoque le passé pour résoudre les problèmes du présent? ». C’est ce double
+problème que l’on retrouve dans les textes que Foucault consacre à la fin de sa vie à
+l'analyse du texte de Kant « Qu'est-ce que les Lumières » : il s’agit de se défendre à
+la fois de l'accusation d’apologie du passé et de relativisme historique, ce que
+Foucault fait en particulier dans l’amorce de débat — interrompu par la mort —
+avec Habermas.
+Norme
+* Dans le vocabulaire de Foucault, la notion de « norme » est liée à celle de
+« discipline ». En effet, les disciplines sont étrangères au discours juridique de la loi,
+de la règle entendue comme effer de la volonté souveraine. La règle disciplinaire est
+au contraire une règle naturelle : la norme. Les disciplines, entre la fin du
+. « Vérité, pouvoir et soi », in Zechnologies of the Self ; A Seminar with Michel Foucault, op.
+cit., repris in DE, vol. 4, texte n° 362.
+
+. « Espace, savoir, pouvoir », entretien avec P. Rabinow, Skyline, mars 1982, repris in DE,
+vol. 4, n° 310.
+Foucault
+XVIII siècle et le début du XIXF siècle, « definiront un code qui sera non pas celui
+de la loi, mais de la normalisation, et elles se réfèreront nécessairement à un
+horizon théorique qui ne sera pas celui du droit mais le champ des sciences
+humaines, et leur jurisprudence sera celle d’un savoir clinique ».
+** La norme correspond à l'apparition d'un bio-pouvoir, c’est-à-dire d’un
+pouvoir sur la vie, et des formes de gouvernementalité qui y sont liées : le modèle
+juridique de la société élaboré entre le XVIIe et le XVIIIE siècle cède le pas à un
+modèle médical au sens large, et l’on assiste à la naissance d’une véritable
+« médecine sociale » qui s’occupe de champs d’intervention allant bien au-delà du
+malade et de la maladie. La mise en place d’un appareil de médicalisation collective
+gérant les « populations » à travers l'institution de mécanismes d'administration
+médicale, de contrôle de la santé, de la démographie, de l'hygiène ou de
+l'alimentation, permet d'appliquer à la société tout entière une distinction
+permanente entre le normal et le pathologique et d'imposer un système de
+normalisation des comportements et des existences, du travail et des affects : « Par
+pensée médicale, j’entends une façon. de percevoir les choses qui s'organise autour
+de la norme, c’est-à-dire qui essaie de partager ce qui est normal de ce qui est
+anormal, ce qui n’est pas tout à fait justement le licite et l’illicite ; la pensée
+juridique distingue le licite de l’illicite, la pensée médicale distingue le normal de
+l’anormal ; elle se donne, elle cherche aussi à se donner des moyens de correction
+qui ne sont pas exactement des moyens de punition, mais des moyens de
+transformation de l'individu, toute une technologie du comportement de l’être
+humain qui est liee & cela2... ». Les disciplines, la normalisation à travers la
+médicalisation sociale, l'émergence d’une série de bio-pouvoirs s’appliquant à la
+fois aux individus dans leur existence singulière et aux populations selon le principe
+de l’économie et de la gestion politique, et l'apparition de technologies du
+comportement forment donc une configuration du pouvoir qui, selon Foucault, est
+encore la nôtre à la fin du XXE siècle.
+Le problème du passage du système juridique de la souveraineté à celui de la
+normalisation disciplinaire n'est pas simple : « Le développement de la médecine, la
+médicalisation générale du comportement, des conduites, des discours, des désirs,
+tout cela se fait sur le front où viennent “ rencontrer les deux nappes hétérogènes
+de la discipline et de la souveraineté3 ». Au-delà des analyses historiques,
+principalement concentrées dans les cours au Collège de France de la fin des années
+70, le glissement du droit à la médecine est un thème dont Foucault signale à
+plusieurs reprises l’actualité absolue. La question semble alors ne plus être celle de
+l’histoire de la naissance de la médecine sociale mais celle des modalités présentes
+de résistance à la norme : comment lutter contre la normalisation sans pour cela
+. « Cours du 14 janvier 1976 », op. cit.
+
+. «Le pouvoir, une bête magnifique », Quadernos para el dialogo, n° 238, novembre 1977,
+repris in DE, vol. 3, texte n° 212.
+
+. « Cours du 14 janvier 1976 », op. cit.
+Judith Revel
+revenir à une conception souverainiste du pouvoir ? Peut-on à la fois être anti-
+disciplinaire et anti-souverainiste ?
+Pouvoir
+° Foucault ne traite jamais du pouvoir comme d'une entité cohérente, unitaire
+et stable, mais de « relations de pouvoir » qui supposént des conditions historiques
+d’émergence complexes et impliquent des effets multiples, y compris hors de ce que
+l'analyse philosophique identifie traditionnellement comme le champ du pouvoir.
+Bien que Foucault semble parfois avoir remis en cause l'importance du thème du
+pouvoir dans son travail (« Ce n’est donc pas le pouvoir, mais le sujet, qui constitue
+le thème général de mes recherches! »), ses analyses effectuent deux déplacements
+remarquables : s’il est vrai qu’il n’y a de pouvoir qu’exercé par les uns sur les autres
+— «les uns » et « les autres » n'étant jamais fixés dans un rôle mais tour à tour,
+voire simultanément, chacun des pôles de la relation —, alors une généalogie du
+pouvoir est indissociable d’une histoire de la subjectivité ; si le pouvoir n’existe
+qu’en acte, alors c’est à la question du « comment » qu’il revient d’analyser ses
+modalités d’exercice, c’est-à-dire aussi bien l'émergence historique de ses modes
+d'application que les instruments qu’il se donne, les champs où il intervient, le
+réseau qu’il dessine et les effets qu’il implique à une époque donnée. En aucun cas
+il ne s’agit par conséquent de décrire un principe de pouvoir premier et
+fondamental mais un agencement où se croisent les pratiques, les savoirs et les
+institutions, et où le type d’objectif poursuivi non seulement ne se réduit pas à la
+domination mais n’appartient à personne et varie lui-même dans l’histoire.
+se L'analyse du pouvoir exige que l'on fixe un certain nombre de points : 1) le
+système des différenciations qui permet d’agir sur l’action des autres, et qui est à la
+fois la condition d’émergence et l’effet de relations de pouvoir (différence juridique
+de statut et de privilèges, différence économique dans l’appropriation de la richesse,
+différence de place dans le processus productif, différence linguistique ou
+culturelle, différence de savoir-faire ou de compétence...) ; 2) l’objectif de cette
+action sur l’action des autres (maintien des privilèges, accumulation des profits,
+exercice d’une fonction...) ; 3) les modalités instrumentales du pouvoir (les armes,
+le discours, les disparités économiques, les mécanismes de contrôle, les systèmes de
+surveillance...) ; 4) les formes d’institutionnalisation du pouvoir (structures
+juridiques, phénomènes d’habitude, lieux spécifiques possédant un règlement et
+une hiérarchie propres, systèmes complexes comme celui de l'État.) ; 5) le degré
+de rationalisation en fonction de certains indicateurs (efficacité des instruments,
+certitude du résultat, coût économique et politique...). En caractérisant les
+relations de pouvoir comme des modes d’action complexes sur l’action des autres,
+Foucault inclut par ailleurs dans sa description la liberté, dans la mesure où le
+pouvoir ne s’exerce que sur des sujets — individuels ou collectifs — « qui ont
+devant eux un champ de possibilité où plusieurs conduites [...] peuvent prendre
+1. « Le sujet et le pouvoir », op. cit.
+Foucault
+place, Là où les déterminations sont saturées, il n’y a pas de relation de pouvoir! ».
+L'analyse foucaldienne détruit donc l’idée d’un face à face entre le pouvoir et la
+liberté : c’est précisément en les rendant indissociables que Foucault peut
+reconnaître au pouvoir un rôle non seulement répressif mais productif (d’effets de
+vérité, de subjectivités, de luttes), et qu’il peut inversement enraciner les
+phénomènes de résistance à l’intérieur même du pouvoir qu’ils cherchent à
+contester, et non pas dans un improbable « dehors ».
+so _ La généalogie du pouvoir que dessine Foucault possède à la fois des constantes
+et des variables. Si, à partir de Platon, toute la pensée occidentale pense qu’il y a
+une antinomie entre le savoir et le pouvoir («la où savoir et science se trouvent
+dans leur vérité pure, il ne peut plus y avoir de pouvoir politique? »), Foucault,
+dans le sillage de Nietzsche, va au contraire chercher à dissoudre ce mythe et à
+reconstruire la manière dont, à chaque époque, le pouvoir politique est tramé avec
+le savoir : la manière dont il donne naissance à des effets de vérité et, inversement,
+la manière dont les jeux de vérité font d’une pratique ou d’un discours un enjeu de
+pouvoir. Mais si, au Moyen Âge, le pouvoir fonctionne en gros à travers la
+reconnaissance des signes de fidélité et le prélèvement des biens, à partir du XVIIe
+et du XVII siècle, il va s’organiser à partir de l’idée de production et de prestation.
+Obtenir des individus des prestations productives, cela signifie avant tout déborder
+du cadre juridique traditionnel du pouvoir — celui de la souveraineté — pour
+intégrer les corps des individus, leurs gestes, leur vie même — ce que Foucault
+décrira comme la naissance des « disciplines », c’est-à-dire comme un type de
+gouvernementalité dont la rationalité est en réalité une économie politique. Cette
+disciplinarisation subit à son tour une modification, dans la mesure où le
+gouvernement des individus est complété par un contrôle des « populations », à
+travers une série de « bio-pouvoirs » qui administrent la vie (l'hygiène, la sexualité,
+la démographie...) de manière globale afin de permettre une maximalisation de la
+reproduction de la valeur (c’est-à-dire une gestion moins dispendieuse de la
+production). « Il y aurait donc un schématisme à éviter [...] qui consiste à localiser
+le pouvoir dans l’appareil d’État, et à faire de l'appareil d’État l'instrument
+privilégié, capital, majeur, presque unique du pouvoir d’une classe sur une autre
+classe » : de même que le modèle juridique de la souveraineté ne permet pas de
+rendre compte de l’émergence d’une économie politique, la critique politique de
+l'État ne permet pas de mettre en évidence la circulation du pouvoir dans le corps
+social tout entier et la diversité de ses applications, c’est-à-dire aussi la variabilité
+des phénomènes d’assujettissement et, paradoxalement, de subjectivation auxquels
+il donne lieu.
+1. « Le sujet et le pouvoir », op. cit.
+
+2. « La vérité et les formes juridiques », op. cit.
+
+3. « Questions à Michel Foucault sur la géographie », Hérodote, n° 1, 1976, repris in DE,
+vol. 3, texte n° 169.
+Judith Revel
+Problematisation
+° Dans les deux dernières années de sa vie, Foucault utilise de plus en plus
+souvent le terme « problématisation» pour définir sa recherche. Par
+« problématisation », il n'entend pas la re-présentation d’un objet préexistant, ni la
+création par le discours d’un objet qui n’existe pas, mais « l’ensemble des pratiques
+discursives ou non-discursives qui fait entrer quelque chose dans le jeu du vrai et
+du faux et le constitue comme objet pour la pensée (que ce soit sous la forme de la
+réflexion morale, de la connaissance scientifique, de l'analyse politique, etc.)l »
+L'histoire de la pensée s'intéresse donc à des objets, à des règles d’action ou à des
+modes de rapport à soi dans la mesure où elle les problématise : elle s'interroge sur
+leur forme historiquement singulière et sur la manière dont ils ont représenté à une
+époque donnée un certain type de réponse à un certain type de problème.
++ Foucault a recours à la notion de problématisation pour distinguer
+radicalement l’histoire de la pensée à la fois de l’histoire des idées et de l’histoire des
+mentalités. Alors que l’histoire des idées s'intéresse à l’analyse des systèmes de
+représentation qui sous-tendent à la fois les discours et les comportements, et que
+l’histoire des mentalités s'intéresse à l'analyse des attitudes et des schémas de
+comportement, l’histoire de la pensée s'intéresse, elle, à la manière dont se
+constituent des problèmes pour la pensée, et quelles stratégies sont développées
+pour y répondre : en effet, « à un même ensemble de difficultés plusieurs réponses
+peuvent être données. Et la plupart du temps, des réponses diverses sont
+effectivement données. Or ce qu’il faut comprendre, c’est ce qui les rend
+simultanément possibles : c’est le point où s’enracine leur simultanéité ; c’est le sol
+qui peut les nourrir les unes et les autres dans leur diversité et en dépit parfois de
+leurs contradictions? ». Le travail de Foucault est ainsi reformulé dans les termes
+d’une enquête sur la forme générale de problématisation correspondant à une
+époque donnée : l'étude des modes de problématisation — c’est-à-dire « ce qui
+n'est ni constante anthropologique, ni variation chronologique — est donc la façon
+d'analyser, dans leur forme historiquement singulière, des questions à portée
+generale? ».
+se Le terme de problématisation implique deux conséquences. D'une part, le
+véritable exercice critique de la pensée s’oppose à l’idée d’une recherche
+méthodique de la « solution » : la tâche de la philosophie n’est donc pas de
+résoudre — y compris en substituant une solution à une autre — mais de
+« problématiser », non pas de réformer mais d’instaurer une distance critique, de
+faire jouer la « déprise », de retrouver les problèmes. De l’autre, cet effort de
+1. « Le souci de la vérité », Magazine Littéraire, n° 207, mai 1984, repris in DE, vol. 4,
+texte n° 350.
+
+2. « Polémique, politique et problématisation », in P. Rabinow, The Foucault Reader, op.
+cit, repris in DE, vol. 4, texte n° 342.
+
+3. « What is Enlightenment ? », in P. Rabinow, The Foucault Reader, op. cit. ; repris in DE,
+vol. 4, texte n° 339.
+Foucault
+problématisation n'est en aucun cas un anti-réformisme ou un pessimisme
+relativiste : à la fois parce qu’il révèle un réel attachement au principe que l’homme
+est un être pensant — de fait, le terme de « problématisation » est particulièrement
+employé dans le commentaire du texte de Kant sur la question des Lumières —, et
+parce que « ce que j'essaie de faire, c’est l’histoire des rapports que la pensée
+entretient avec la vérité ; l’histoire de la pensée en tant qu'elle est pensée de vérité,
+Tous ceux qui disent que pour moi la vérité n’existe pas sont des esprits
+simplistes! ».
+Raison / Rationalité
+° Le terme de raison apparaît initialement chez Foucault comme l’un des deux
+éléments du partage raison / déraison qui est au cœur de la culture occidentale :
+alors que le Logos grec n’a pas de contraire, la raison n’existe pas sans sa négation,
+c'est-à-dire sans l'existence de ce qui, par différence, la fait être. Ce n’est donc pas
+la raison qui est originaire, mais bien la césure qui lui permet d’exister : et c’est de
+ce partage entre la raison et la non-raison que Foucault cherche à faire l’histoire à
+un moment très précis de notre culture — quand la raison cherche à exercer une
+prise sur la non-raison pour lui arracher sa vérité, c’est-à-dire pour étendre à ce
+qu’elle semble pourtant exclure les mailles de son pouvoir sous la triple forme de
+discours de savoirs, d'institutions et de pratiques. Il existe donc un moment où le
+partage fondateur entre la raison et la non-raison prend la forme de la rationalité,
+et c’est à l’application de cette rationalité dans différents champs — la folie, la
+maladie, la délinquence, l’économie politique —, c’est-à-dire également au type de
+pouvoir que cela implique, que Foucault consacre sa recherche.
+ee Le moment où la césure raison / non-raison prend la forme d'une hégémonie
+de la rationalité correspond au XVII siècle occidental, c’est-à-dire à l’âge classique.
+Cette rationalisation a différents visages : une rationalité scientifique et technique
+qui devient de plus en plus importante dans le développement des forces
+productives et dans le jeu des décisions politiques, une rationalité d’État qui
+impose des formes de gouvernementalité et des procédures de contrôle complexes,
+une rationalité du comportement qui fixe la mesure sociale de la norme et de la
+déviance etc. Foucault, en historicisant les transformations de la rationalité
+moderne, la distingue soigneusement de la raison, alors que la confusion
+raison / rationalité est précisément l’un des mécanismes de pouvoir qu'il s’agit de
+décrire ; et c’est dans cette confusion, soigneusement entretenue par le pouvoir,
+que s’enracine l’idée d’une « raison comme lumière despotique? », dans la mesure
+où « le lien entre la rationalisation et les abus du pouvoir politique est évident ». Il
+y a donc une histoire critique de la raison qui est l’histoire de la transformation des
+a
+
+« Le souci de la vérité », op. cit.
+
+Introduction à G. Canguilhem, On the Normal and the Pathological, op. cit.
+
+Préface à la deuxième édition du livre de J. Vergès, De la stratégie judiciaire, Paris,
+Éditions de Minuit, 1981, repris in DE, vol. 4, texte n° 290.
+Judith Revel
+rationalités et non pas l'histoire de l'acte fondateur par lequel la raison dans son
+essence aurait été découverte : « différentes instaurations, différentes créations,
+différentes modifications par lesquelles des rationalités s’engendrent les unes les
+autres, s'opposent les unes aux autres, se chassent les unes les autres! ».
+ve La référence au texte kantien sur les Lumières (Was ist Aufklärung ?) pousse
+cependant Foucault à reformuler le problème de la raison en faisant l’hypothèse
+d’un usage autonome, mûr et critique de la raison : c’est en récupérant l’héritage
+des Lumières que l’on pourra peut-être mettre en œuvre une raison « qui n’a d’effet
+d’affranchissement qu’à la condition qu’elle parvienne à se libérer d’elle-même2 ».
+Résistance / Transgression
+* Le terme de « résistance » est précédé chez Foucault par un certain nombre
+d’autres notions chargées d’exprimer une certaine extériorité — toujours
+provisoire — au système de savoir / pouvoir décrit par ailleurs : c’est le cas de la
+« transgression » (que Foucault emprunte à Bataille) et du « dehors » (que Foucault
+emprunte à Blanchot) dans les années 60. Dans un cas comme dans l’autre, il s’agit
+de décrire la manière dont un individu singulier, à travers un procédé qui est en
+général d'écriture (d’où l'intérêt de Foucault pour Raymond Roussel, pour Jean-
+Pierre Brisset ou pour Pierre Rivière), réussit de manière volontaire ou fortuite à
+tenir en échec les dispositifs d'identification, de classification et de normalisation
+du discours. Dans la mesure où il n’y a pas de savoir possible sur des objets
+impossibles, ces cas littéraires « ésotériques », par la mise en œuvre d’un certain
+nombre de procédés linguistiques, représentent dans un premier temps pour
+Foucault l'impossibilité de l’objectivation normative. L’abandon à la fois de la
+littérature comme champ privilégié et de la notion même de transgression
+correspond cependant à l'exigence de poser le problème de manière générale (c’est-
+à-dire également pour les pratiques non-discursives) et non seulement au niveau de
+l’action individuelle mais en fonction de l’action collective. Le terme de résistance
+apparaît alors à partir des années 70 dans un sens assez différent de celui qu'avait la
+« transgression » : la résistance se donne nécessairement là où il y a du pouvoir,
+parce qu’elle est inséparable des relations de pouvoir ; il arrive qu’elle fonde les
+relations de pouvoir tout comme elle en est parfois le résultat ; dans la mesure où
+les relations de pouvoir sont partout, la résistance est la possibilité de creuser des
+espaces de luttes et de ménager des possibilités de transformation partout. L'analyse
+des rapports entre les relations de pouvoir et les foyers de résistance est donc faite
+par Foucault en termes de stratégie et de tactique : chaque mouvement de l’un sert
+de point d’appui pour une contre-offensive de l’autre,
+. « Structuralisme et post-structuralisme », Telos, vol. XVI, n° 55, printemps 1983, repris
+in DE, vol. 4, texte n° 330.
+
+. « La vie, l'expérience, la science », Revue de métaphysique et de morale, 90€ année, n° 1:
+Canguilhem, 1985, repris in DE, vol. 4, texte n° 361.
+Foucault
++ Le rapport entre les relations de pouvoir et les stratégies de résistance n'est pas
+simplement réductible à un schéma dialectique (comme cela était le cas, quoi qu’en
+ait dit Foucault à l’époque, al le couple limite / passage à la limite qui fondait en
+réalité la notion de transgression 1), parce que la description du pouvoir s’est entre-
+temps complexifiée. Foucault insiste donc sur trois points : la résistance n’est pas
+«antérieure au pouvoir qu'elle contre. Elle lui est coextensive et absolument
+contemporaine? »: cela signifie qu’il n’y a pas d’antériorité logique ou
+chronologique de la résistance — le couple résistance / pouvoir n’est pas le couple
+liberté / domination — ; la résistance doit présenter les mêmes caractéristiques que
+le pouvoir : « aussi inventive, aussi mobile, aussi productive que lui. [...] comme
+lui, elle s'organise, se coagule et se cimente. [...] comme lui, elle vient d’en bas et
+se distribue stratégiquementÿ » : la résistance ne vient donc pas de l’extérieur du
+pouvoir, elle lui ressemble même, parce qu’elle en assume les caractéristiques — ce
+qui ne veut pas dire qu’elle ne soit pas possible ; la résistance peut à son tour fonder
+de nouvelles relations de pouvoir, tout comme de nouvelles relations de pouvoir
+peuvent, inversement, susciter l'invention de nouvelles formes de résistance : « Elles
+constituent l’une pour l’autre une sorte de limite permanente, de point de
+renversement possible [...] En fait, entre relations de pouvoir et stratégies “ lutte,
+il y a appel réciproque, enchaînement indéfini et renversement perpétuelf ». La
+description de Foucault de cette « réciprocité » indissoluble n’est pas réductible à
+un modèle simpliste où le pouvoir serait entièrement considéré comme négatif et
+les luttes comme des tentatives de libération : non seulement le ‘pouvoir, en tant
+qu’il produit des effets de vérité, est positif, mais les relations de pouvoir ne sont
+partout que parce que partout les individus sont libres. Ce n'est donc pas
+fondamentalement contre le pouvoir que naissent les luttes, mais contre certains
+effets de pouvoir, contre certains états de domination, dans un espace qui a été
+paradoxalement ouvert par les rapports de pouvoir. Et inversement : s’il n’y avait
+pas de résistance, il n’y aurait pas d’effets de pouvoir mais simplement des
+problèmes d’obéissance.
++ Alors qu'au début de sa recherche, Foucault se posait le probleme de la
+possibilité de la résistance au sein de la grille des dispositifs de pouvoir, il en vient
+dans les dernières années à renverser cette proposition. Le projet d’une ontologie
+critique de l'actualité va de pair avec l’idée d’une analyse qui prendrait pour point
+de départ les formes de résistance aux différents types de pouvoir : « plutôt que
+d'analyser le pouvoir du point de vue de sa rationalité interne, il s’agit d’analyser les
+relations de pouvoir à travers l'affrontement des strategies? ».
+. Voir à ce sujet le texte « Préface à la transgression », Critique n° 195-196: Hommage à
+Georges Bataille, 1963, repris in DE, vol. 1, texte n° 13.
+
+. « Non au sexe roi », Le Nouvel Observateur, n° 644, mars 1977, repris in DE, vol. 3,
+texte n° 200.
+
+. Ibid.
+
+. « Le sujet et le pouvoir », op. cit.
+Judith Revel
+Savoir / Savoirs
+* Foucault distingue nettement le « savoir » de la « connaissance » : alors que la
+connaissance correspond à la constitution de discours sur des classes d’objets jugés
+connaissables, c’est-à-dire à la mise en œuvre d’un processus complexe de
+rationalisation, d'identification et de classification des objets indépendamment du
+sujet qui les connaît, le savoir désigne au contraire le processus par lequel le sujet de
+connaissance, au lieu d’être fixe, subit une modification lors du travail qu’il
+effectue afin de connaître. L'analyse archéologique menée par Foucault jusqu’au
+début des années 70 s'occupe de l’organisation de la connaissance à une époque
+donnée et en fonction de classes d’objets spécifiques ; l'analyse généalogique qui lui
+succède essaie de reconstituer la manière dont le savoir implique à la fois un
+rapport aux objets de connaissance (mouvement d’objectivation) et au soi
+connaissant (processus de subjectivation).
++ Le savoir est essentiellement lié à la question du pouvoir, dans la mesure où, à
+partir de l’âge classique, c’est à travers le discours de la rationalité — c’est-à-dire la
+séparation entre le scientifique et le non-scientifique, entre le rationnel et non-
+rationnel, entre le normal et l’anormal — que va s'effectuer une mise en ordre
+générale du monde, c’est-à-dire aussi des individus, qui passe à la fois par une
+forme de gouvernement (l'État) et par des procédés disciplinaires. La
+disciplinarisation du monde à travers la production de savoirs locaux correspond à
+la disciplinarisation du pouvoir lui-même : en réalité, le pouvoir disciplinaire,
+« quand il s'exerce dans ses mécanismes fins, ne peut pas le faire sans la formation,
+l’organisation et la mise en circulation d’un savoir ou, plutôt, d’appareils de
+savoir! », c’est-à-dire d’instruments effectifs de cumul du savoir, de techniques
+d'archivage, de conservation et d’enregistrement, de méthodes d’investigation et de
+recherche, d’appareils de vérification etc. Or le pouvoir ne peut disciplinariser les
+individus sans produire également, à partir d’eux et sur eux, un discours de savoir
+qui les objectivise et anticipe toute expérience de subjectivation. L’articulation
+pouvoir / savoir(s) sera donc double : « pouvoir d’extraire des individus un savoir,
+et d'extraire un savoir sur ces individus soumis au regard et déjà contrôlés? ». Il
+s'agira par conséquent d’analyser non seulement la manière dont les individus
+deviennent des sujets de gouvernement et des objets de connaissance, mais la
+manière dont il finit par être demandé aux sujets de produire un discours sur eux-
+mêmes — sur leur existence, sur leur travail, sur leurs affects, sur leur sexualité
+etc. — afin de faire de la vie-même, devenue objet de multiples savoirs, le champ
+d'application d’un bio-pouvoir.
+
+se La transformation des procédures de savoir accompagne les grandes mutations
+des sociétés occidentales : c’est ainsi que Foucault est amené à repérer différentes
+formes de « pouvoir-savoir » et à travailler successivement sur la esure (liée à la
+constitution de la cité grecque), sur l’enguête (liée à la formation de l’État médiéval)
+1. « Cours du 14 janvier 1976 », op. cit.
+2. « La vérité et les formes juridiques », op. cit.
+Foucault
+et sur l'examen (lié aux systèmes de contrôle, de gestion et d'exclusion propres aux
+sociétés industrielles). La forme de l’examen sera centrale dans les analyses que
+Foucault consacre à la naissance de la gouvernementalité et au contrôle social : elle
+implique un type de pouvoir essentiellement administratif qui a « imposé au savoir
+la forme de la connaissance : un sujet souverain ayant fonction d’universalité et un
+objet de connaissance qui doit être reconnaissable par tous comme étant dejä la! ».
+Or le paradoxe tient précisément au fait qu’il ne s’agit en réalité pas des
+modifications du savoir d’un sujet de connaissance qui serait affecté par les
+transformations de l'infrastructure, mais de formes de pouvoir-savoir qui,
+fonctionnant au niveau de l’infra-structure, donnent lieu au rapport de
+connaissance historiquement déterminé qui est fondé sur le couple sujet-obijet.
+Sexualité
+* Le thème de la sexualité apparaît chez Foucault non pas comme un discours
+sur l’organisation physiologique du corps, ni comme une étude du comportement
+sexuel, mais comme le prolongement d’une analytique du pouvoir : il s’agit en effet
+de décrire la manière dont celui-ci, à partir de la fin du XVIII siècle, investit à
+travers des discours et des pratiques de « médecine sociale » un certain nombre
+d’aspects fondamentaux de la vie des individus : la santé, l'alimentation, la sexualité
+etc. La sexualité n’est donc dans un premier temps que l’un des champs
+d'application de ce que Foucault appelle à l’époque les bio-pouvoirs. Dans un
+deuxième temps, Foucault transforme cependant la sexualité en un objet d'enquête
+spécifique dans la mesure où, insistant sur la manière dont le pouvoir s'articule
+toujours sur des discours de « véridiction » c’est-à-dire des « jeux de vérité », ces
+rapports au dire vrai ne sont nulle part ailleurs plus évidents qu’à propos de la
+sexualité : nous appartenons à une civilisation où l’on demande aux hommes de
+dire la vérité à propos de leur sexualité pour pouvoir dire la vérité sur eux-mêmes.
+« La sexualité, bien plus qu’un élément de l'individu qui serait rejeté hors de lui, est
+constitutive de ce lien qu’on oblige les gens à nouer avec leur identité sous la forme
+de la subjectivite2 ». Le projet d’une histoire de la sexualité devient donc une
+interrogation sur la façon dont les pratiques et les discours de la religion, de la
+science, de la morale, de la politique ou de l’économie ont contribué à faire de la
+sexualité à la fois un instrument de subjectivation et un enjeu de pouvoir.
+°° Foucault distingue soigneusement entre « sexe » et « sexualité » : « ce à quoi
+
+s’est d’abord appliqué le discours de sexualité, ce n’était pas le sexe, c'était le corps,
+les organes sexuels, les plaisirs, les relations d’alliance, les rapports inter-individuels
+[...] un ensemble heterogene qui a finalement été recouvert par le dispositif de
+sexualité, lequel a produit, à un moment donné comme clef de voûte de son propre
+1. « La maison des fous », in F. Basaglia et F. Basaglia-Ongaro, Crimini di pace, Turin,
+Einaudi, 1975, repris in DE, vol. 3, texte n° 146.
+
+2. « Sexualité et pouvoir », conférence à l’université de Tokyo, 20 avril 1978, repris in DE,
+vol. 3, texte n° 233.
+Judith Revel
+discours et peut-être de son propre fonctionnement, l’idée du sexe! ». Si l’idée du
+sexe est intérieure au dispositif de la sexualité, alors on doit retrouver à son
+fondement une économie positive du corps et du plaisir : c’est dans cette direction
+qu'ira l’analyse de Foucault quand elle cherchera à distinguer la problématisation
+de la sexualité comme aphrodisia dans le monde gréco-romain, et celle de la chair
+dans le christianisme.
+La modification du projet de l'Histoire de la sexualité tel qu'il avait tout
+d’abord été exposé dans la préface à La volonté de savoir, en 1976, peut se
+comprendre à partir du travail effectué sur le thème de la sexualité. Ce qui semble
+en effet intéresser Foucault à partir de la fin des années 70, c’est davantage le
+problème posé par « les techniques de soi » et par la possibilité des processus de
+subjectivation que l’histoire de la sexualité comme objet de véridiction : l’érotique
+grecque présente la sexualité plus comme un problème de choix que comme un
+lieu de vérité sur soi. Le passage par la culture antique a par conséquent permis à
+Foucault de développer son analyse du pouvoir hors du champ de la connaissance
+au sens strict — qu'il s'agisse de discours, d’institutions ou de pratiques —, c’est-à-
+dire au contraire dans un rapport à soi qui se donne avant tout comme expérience
+de soi, comme ethos.
+Souci de soi / techniques de soi
+®e Au début des années 80, le thème du souci de soi apparaît dans le vocabulaire
+de Foucault dans le prolongement de l’idée de gouvernementalité. À l'analyse du
+gouvernement des autres suit en effet celle du gouvernement de soi, c’est-à-dire la
+manière dont les sujets se rapportent à eux-mêmes et rendent possible le rapport à
+autrui, L'expression « souci de soi », qui est une reprise de l’epimeleia heautou que
+l’on rencontre en particulier dans le Premier Alcibiade de Platon, indique en réalité
+l’ensemble des expériences et des techniques qui élaborent le sujet et l’aident à se
+transformer soi-même. Dans la période hellénistique et romaine sur laquelle se
+concentre rapidement l'intérêt de Foucault, le souci de soi inclut la maxime
+delphique du gnôthi seauton mais ne s’y réduit pas : l’epémeleia heautou correspond
+davantage à un idéal éthique (faire de sa vie un objet de tekhne, une œuvre d’art)
+qu’à un projet de connaissance au sens strict.
++ L'analyse du souci de soi permet en réalité d'étudier deux problèmes. Le
+premier consiste à comprendre en particulier comment la naissance d’un certain
+nombre de techniques ascétiques à partir du concept classique de souci de soi ont
+été par la suite attribuées au christianisme. « Aucune technique, aucun talent
+professionnel ne peut être acquis sans pratique ; et l'on ne peut pas davantage
+apprendre l’art de vivre, la tekhne tou DE sans une askösisqui doit Etre consideree
+comme un apprentissage de soi par soi2 ». Quel est alors l'élément qui différencie
+1. «Le jeu de Michel Foucault », op. cit.
+2. «A propos de la généalogie de l'éthique : un aperçu du travail en cours », op. cit.
+Foucault
+l'éthique gréco-romaine de la morale pastorale chrétienne, et n'est-ce pas
+précisément dans l'articulation du souci de soi aux aphrodisia que l’on peut
+comprendre ce passage ? Le second problème concerne en réalité l’histoire de ces
+aphrodisia comme champ d'investigation spécifique du rapport à soi : il s’agit de
+chercher à saisir comment les individus ont été amenés à exercer sur eux-mêmes et
+sur les autres « une herméneutique du désir dont leur comportement sexuel a sans
+doute bien été l’occasion mais n’a certainement pas été le domaine exclusif », et
+d’analyser les différents jeux de vérité à l’œuvre dans le mouvement de constitution
+de soi comme sujet de désir.
++. _ Dans l'Antiquité classique, le souci de soi n'est pas opposé au souci des autres :
+il implique au contraire des rapports complexes avec les autres parce qu’il est
+important, pour l’homme libre, d’inclure dans sa « bonne conduite » une juste
+manière de gouverner sa femme, ses enfants ou sa maison. L’éthos du souci de soi
+est donc également un art de gouverner les autres, et c’est pour cela qu’il est
+essentiel de savoir prendre soin de soi pour pouvoir bien gouverner la cité. C’est sur
+ce point, et non sur la dimension ascétique du rapport à soi, que s'effectue la
+rupture de la pastorale chrétienne : l'amour de soi devient la racine de différentes
+fautes morales, et le souci des autres implique désormais un renoncement à soi lors
+du séjour terrestre.
+Subjectivation (processus de)
+° Le terme de « subjectivation » désigne chez Foucault un processus par lequel
+on obtient la constitution d’un sujet, ou plus exactement d’une subjectivité. Les
+« modes de subjectivation » ou « processus de subjectivation » de l'être humain
+correspondent en réalité à deux types d’analyse: d’une part, les modes
+d’objectivation qui transforment les êtres humains en sujets — ce qui signifie qu’il
+n’y a de sujets qu’objectivés, et que les modes de subjectivation sont en ce sens des
+pratiques d’objectivation ; de l’autre, la manière dont le rapport à soi à travers un
+certain nombre de techniques permet de se constituer comme sujet de sa propre
+existence.
+* Foucault repère dans un premier temps trois modes de subjectivation
+principaux : « les différents modes d’investigation qui cherchent à accéder au statut
+de sciencel » comme l’objectivation du sujet parlant en grammaire ou en
+linguistique, ou encore celle du sujet productif dans l’économie et l’analyse des
+richesses ; les « pratiques divisantes », qui divisent le sujet à l’intérieur de lui-même
+(ou par rapport aux autres sujets) pour le classer et en faire un objet — comme la
+division entre le fou et le sain d’esprit, le malade et l’homme en bonne santé, le
+brave homme et le criminel, etc. ; enfin, la manière dont le pouvoir investit le sujet
+en se servant non seulement des modes de subjectivation déjà cités mais en en
+inventant d’autres : c’est tout l’enjeu des techniques de gouvernementalite. Dans
+1. « Le sujet et le pouvoir », op. cit.
+Judith Revel
+un second temps, la question de Foucault semble se renverser : s’il est vrai que les
+modes de subjectivation produisent, en les objectivant, quelque chose comme des
+sujets, comment ces sujets se rapportent-ils à eux-mêmes ? Quels procédés
+
+l'individu met-il en œuvre afin de s’approprier ou de se réapproprier son propre
+rapport à soi ?
+os C'est à partir de ce dernier point que Foucault se livre par exemple à l'analyse
+détaillée des hupomnemata, et plus généralement de l'écriture privée entre
+l'antiquité classique et les premiers siècles de l’ère chrétienne : dans tous les cas, il
+s’agit de comprendre les modalités d’un rapport à soi qui passe par la mise en
+pratique sans cesse recommencée d’un procédé d'écriture de soi et pour soi, c’est-à-
+dire d’un procédé de subjectivation. Mais alors que pour les hupomnémata grecques
+«il s'agissait de se constituer soi-même comme sujet d’action rationnelle par
+l'appropriation, l’unification et la subjectivation d’un déjà-dit fragmentaire et
+choisi, dans le cas de la notation monastique des expériences spirituelles, il s’agira
+de débusquer de es de l’âme les mouvements les plus cachés de manière à
+pouvoir s’en affranchirl »
+Sujet / subjectivité
+° La pensée de Foucault se présente dès le départ comme une critique radicale
+du sujet tel qu’il est entendu par la philosophie « de Descartes à Sartre », c’est-à-
+dire comme conscience solipsiste et a-historique, auto-constituée et absolument
+libre. L'enjeu est donc, au rebours des philosophies du sujet, d’arriver à « une
+analyse qui puisse rendre compte de la constitution du sujer dans la trame
+historique. Et c’est ce que j’appellerais la généalogie, c’est-à-dire une forme
+d’histoire qui rende compte de la constitution des savoirs, des discours, des
+domaines d'objet, etc., sans avoir à se référer à un sujet, qu’il soit transcendant par
+rapport au champ d'événements, ou qu’il courre dans son identité vide, tout au
+long de l’histoire£ ». Il reste donc à penser le sujet comme un objet historiquement
+constitué sur la base de déterminations qui lui sont extérieures : la question que
+pose par exemple Les Mots et Les Choses revient alors à interroger cette constitution
+selon la modalité spécifique de la connaissance scientifique, puisqu'il s’agit de
+comprendre comment le sujet a pu, à une certaine époque, devenir un objet de
+connaissance et, inversement, comment ce statut d’objet de connaissance a eu des
+effets sur les théories du sujet en tant qu'être vivant, parlant, travaillant.
++ L’affirmation que le sujet a une genèse, une formation, une histoire, et qu'il
+n’est pas originaire, a sans doute été très influencée chez Foucault par la lecture de
+Nietzsche, de Blanchot et de Klossowski, et peut-être aussi par celle de Lacan ; elle
+. « L'écriture de soi », Corps Écrit, n° 5 : L'Autoportrait, 1983, repris in DE, vol. 4, texte
+n° 329.
+
+. «Entretien avec Michel Foucault », in Microfisica del potere : interventi politici, op. cit.
+repris in DE, vol. 3, texte n° 192.
+Foucault
+nest pas indifférente à l'assimilation fréquente du philosophe au courant
+structuraliste dans les années 60, puisque la critique des philosophies du sujet se
+retrouvent aussi bien chez Dumézil, chez Lévi-Strauss, ou chez Althusser. Le
+problème de la subjectivité, c’est-à-dire « la manière dont le sujet fait l'expérience
+de lui-même dans un jeu de vérité où il a rapport à soil » devient alors le centre des
+analyses du philosophe : si le sujet se constitue, ce n’est pas sur le fond d’une
+identité psychologique mais à travers des pratiques qui peuvent être de pouvoir ou
+de connaissance, ou bien par des techniques de soi.
+«+ Le problème de la production historique des subjectivités appartient donc à la
+fois à la description archéologique de la constitution d’un certain nombre de
+savoirs sur le sujet, à la description généalogique des pratiques de domination et
+des stratégies de gouvernement auxquelles on peut soumettre les individus, et à
+l'analyse des techniques à travers lesquelles les hommes, en travaillant le rapport
+qui les lie à eux-mêmes, se produisent et se transforment : « au cours de leur
+histoire, les hommes n’ont jamais cessé de se construire eux-mêmes, c’est-à-dire de
+déplacer continuellement leur subjectivité, de se constituer dans une série infinie et
+multiple de subjectivités différentes et qui n’auront jamais de fin et ne nous
+placeront jamais face à quelque chose qui serait l’homme? ». Ce lieu inassignable
+de la subjectivité en mouvement, en perpétuelle « déprise » par rapport à elle-
+même, c’est à la fois pour Foucault le produit des déterminations historiques et du
+travail sur soi (dont les modalités sont à leur tour historiques), et c’est dans ce
+double ancrage que se noue le problème de la résistance subjective des singularités :
+le lieu de l'invention de soi n’est pas à l'extérieur de la grille du savoir / pouvoir
+mais dans sa torsion intime — et le parcours philosophique Foucault semble la
+pour nous en donner l’exemple.
+Vérité / Jeux de vérité
+° Alors que la philosophie moderne, depuis Descartes, a toujours été liée au
+problème de la connaissance, c’est-à-dire à la question de la vérité, Foucault en
+déplace le lieu : « Depuis Nietzsche, la question s’est transformée. Non plus : quel
+est le chemin le plus sûr de la Vérité ?, mais quel a été le chemin hasardeux de la
+vérité? ? », Il s’agit par conséquent de reconstituer une vérité rendue à l’histoire et
+exempte de rapports avec le pouvoir, et d’en identifier à la fois les contraintes
+multiples et les enjeux dans la mesure où chaque société possède son propre régime
+de vérité, c’est-à-dire « les types de discours qu’elle accueille et fait fonctionner
+comme vrais ; les mécanismes et les instances qui permettent de distinguer les
+énoncés vrais ou faux, la manière dont on sanctionne les uns et les autres : les
+1. « Foucault », in D. Huisman, Dictionnaire des philosophes, Paris, PUF, 1984, repris in
+DE, vol. 4, texte n° 345.
+
+2. « Entretien avec Michel Foucault », 7/ Contributo, 1978, op. cit.
+
+3. « Questions à Michel Foucault sur la géographie », op. cit.
+Judith Revel
+techniques et les procédures qui sont valorisées pour l'obtention de la vérité ; le
+statut de ceux qui ont la charge de dire ce qui fonctionné comme vrail ».
+ee Les analyses de Foucault ont en particulier cherché à mettre en lumière les
+caractéristiques de notre propre régime de vérité. Celui-ci possède en effet plusieurs
+spécificités : la vérité est centrée sur le discours scientifique et sur les institutions
+qui le produisent ; elle est en permanence utilisée aussi bien par la production
+économique que par le pouvoir politique ; elle est très largement diffusée, aussi
+bien à travers les instances éducatives que par l'information ; elle est produite et
+transmise sous le contrôle dominant de quelques grands appareils politiques et
+économiques (universités, médias, écriture, armée) ; elle est l’enjeu d’un
+affrontement social et d’un débat politique violents, sous la forme de « luttes
+idéologiques ». Le problème semble par conséquent être pour Foucault d'interroger
+les jeux de vérité — c’est-à-dire les rapports au travers desquels l’être se constitue
+historiquement comme expérience — qui permettent à l’homme de se penser
+quand il s’identifie comme fou, comme malade, comme déviant, comme
+travaillant, vivant ou parlant, ou encore comme homme de désir. C’est pour cette
+raison que le philosophe définit à la fin de sa vie, et de manière rétrospective, son
+travail comme une « histoire de la vérité ».
+see Le thème des « jeux de vérité » est omniprésent chez Foucault à partir du
+moment où l’analyse des conditions de possibilité de la constitution des objets de
+connaissance et celle des modes de subjectivation sont données comme
+indissociables. Dans la mesure où cette objectivation et cette subjectivation sont
+dépendantes l’une de l’autre, la description de leur développement mutuel et de
+leur lien réciproque est précisément ce que Foucault appelle des « jeux de vérité »,
+c’est-à-dire non pas la découverte de ce qui est vrai, mais les règles en fonction
+desquelles ce que dit un sujet à propos d’un certain objet peut relever de la
+question du vrai ou du faux. Parfois, Foucault utilise également le terme de
+« véridiction » afin de désigner cette émergence de formes qui permettent à des
+discours, qualifiés de vrais en fonction de certains critères, de s’articuler sur un
+certain domaine de choses.
+[. « La fonction politique de l'intellectuel », Politique-Hebdo, 29 novembre-5 décembre
+1976, repris in DE, vol. 3, texte n° 184.
+Abréviations et éditions utilisées
+Maladie mentale et personnalité, Paris, PUF, 1954 ; réed. modifiée : Maladie
+mentale et psychologie, Paris, PUF, 1962.
+
+Folie et déraison. Histoire de la folie à l'âge classique, Paris, Plon, 1961 ; réed.
+modifiée (nouvelle préface et deux appendices) : Histoire de la folie à l'âge
+classique, Paris, Gallimard, 1972.
+
+Naissance de la clinique. Une archéologie du regard médical, Paris, PUF, 1963
+(réed. légèrement modifiée en 1972).
+
+Raymond Roussel, Paris, Gallimard, 1963.
+
+Les Mots et les Choses. Une archéologie des sciences humaines, Paris, Gallimard,
+1966.
+
+L’Archeologie du savoir, Paris, Gallimard, 1969.
+
+L'Ordre du discours, Paris, Gallimard, 1971.
+
+Moi, Pierre Rivière, ayant égorgé ma sœur, ma mère et mon frère. Un cas de
+parricide au XIX® siècle (ouvrage collectif), Paris, Gallimard-Julliard, 1973.
+Surveiller et Punir. Naissance de la prison, Paris, Gallimard, 1975.
+
+Histoire de la sexualité, t. 1 : La Volonté de savoir, Paris, Gallimard, 1976 ; t. Il :
+Le Désordre des familles. Lettres de cachet des archives de la Bastille (avec Arlette
+Farge), Paris, Gallimard-Julliard, 1983.
+
+L’Usage des plaisirs, et t. III : Le Souci de soi, Paris, Gallimard, 1984.
+
+Résumé des cours au Collège de France, Paris, Julliard, 1989 (désormais repris in
+Dits et Écrits, Gallimard, 1994).
+
+Dits et Écrits, Paris, Gallimard, 1991, 4 vol. (éd. établie sous la direction de
+François Ewald et Daniel Defert, avec la collaboration de Jacques Lagrange).
+
+Il faut défendre la société, cours au Collège de France, 1975-1976, Paris,
+Gallimard-Seuil-EHESS, 1997.
+
+Les Anormaux, cours au Collège de France, 1974-1975, Paris, Gallimard-Seuil-
+EHESS, 1999.
+
+L'Herméneutique du sujet, cours au Collège de France, 1981-1982, Paris,
+Gallimard-Seuil-EHESS, 2001.
+ 
+
+ren
+
+- St a
+
+ie
+
+ 
+
+ 
+
